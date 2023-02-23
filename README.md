@@ -4,7 +4,7 @@
 <br/><a href="https://github.com/">[Website link coming soon]</a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Noah.;I+love+Cyber+Security.;I+love+Computer+Science.;I+love+learning.;Thanks+for+stopping+by!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Noah.;I+love+Cyber+Security.;I+love+Computer+Science.;I+love+Engineering.;Thanks+for+stopping+by!;&center=true&width=500&height=50"></a>
 </p>
 
 Welcome to the profile readme! I am a student with interdisciplinary experience ranging from aerospace to international relations, and multiple sub-fields of engineering. Reading and writing about cutting-edge academic research in these covergent areas has been a passion of mine for many years. 
@@ -106,6 +106,7 @@ Some areas include: </b><i>Cloud, Automation, Penetration Testing scripts/tools,
   - [Setup Kali NetHunter on a physical Android Device](https://github.com/NoahAronov)<br/>
   - [Setup and configure pfSense Firewall in a Virtual Machine](https://github.com/NoahAronov)
 
+<i>(Updated 02/23/23 -- Links will eventually source properly)</i>
   
 #
 
@@ -215,6 +216,8 @@ Some areas include: </b><i>Cloud, Automation, Penetration Testing scripts/tools,
   - [Operating System Fundamentals]()  
 - <b/>codered (EC-Council)</b>
   - [Introduction to Dark Web, Anonymity, and Cryptocurrency]()  
+
+<i>(Updated 02/23/23 -- Links will eventually source properly)</i>
 </details>
 
 <p align="center">Contact Me:</p>
