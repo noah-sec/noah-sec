@@ -1,15 +1,13 @@
 # Noah Aronov
 
-**`Security & Engineering Student`**
+**`Security Researcher`**
 <br/><a href="https://github.com/">[Website link coming soon]</a>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Noah.;I+love+Cyber+Security.;I+love+Computer+Science.;I+love+Engineering.;Thanks+for+stopping+by!;&center=true&width=500&height=50"></a>
 </p>
 
-Welcome to the profile readme! I am a student with interdisciplinary experience ranging from astrophysics to international relations, and multiple sub-fields of engineering. Reading and writing about cutting-edge academic research in these covergent areas has been a passion of mine for many years. 
-
-Right now I study Information Assurance and Computer Science, and have completed many courses and certification exams in Cyber Security. Additionally, I am enrolled in a university degree program in Cyber Security. <b>This is where I store projects, labs and scripts relating to my studies and research into various aspects of information technology.
+Welcome to the profile readme! I am a student with interdisciplinary experience currently studying Information Assurance and Computer Science, and have completed many courses and certification exams in Cybersecurity. Additionally, I am enrolled in a university degree program in Cybersecurity. <b>This is where I store projects, labs and scripts relating to my studies and research into various aspects of information technology.
 
 My interests are very diverse, so expect to find projects in varying languages and for varying puroses. 
 Some areas include: </b><i>Cloud, Automation, Penetration Testing scripts/tools, Custom Security OS/Linux Distros, SIEM lab setups, IDS & IPS lab setups, software firewall/router lab setups, Virtualization, Security Hardening of major Operating Systems (RHEL, Fedora, Ubuntu, Arch, Parrot, Kali, iOS, Android, Windows 10, Windows 11, Windows Server/Active Dir.), convenience scripts (batch download/install of tools, batch user/system configuration), random Security Tools ("red", "blue" and "purple"), random labs from school, and links to guides.</i> 
