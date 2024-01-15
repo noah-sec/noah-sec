@@ -3,9 +3,7 @@
 **`INFORMATION SECURITY ENGINEER`**
 <br/><a href="https://linktr.ee/noahsec">View My Portfolio</a>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+Security.;AI/ML+Security.;Security+Engineering.;IT+Security+GRC.;Security+Research.;EDT+Research.;Penetration+Testing.;Red+Teaming.;&center=true&width=500&height=50"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&center=true&random=false&width=500&lines=Security+Engineering.;Security+Research.;Cloud+Security.;AI+Security.;Security+GRC.;Penetration+Testing.;Red+Teaming.)](https://git.io/typing-svg)
 
 Welcome to the profile readme! I am a student with interdisciplinary experience currently studying Information Assurance and Computer Science, and have completed many courses and certification exams in Cybersecurity. Additionally, I am enrolled in a university degree program in Cybersecurity. <b>This is where I store projects, labs and scripts relating to my studies and research into various aspects of information technology.
 
