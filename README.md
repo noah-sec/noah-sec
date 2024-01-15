@@ -1,10 +1,10 @@
-# Noah Aronov
+# NOAH ARONOV
 
-**`Security Researcher`**
-<br/><a href="https://github.com/">[Website link coming soon]</a>
+**`INFORMATION SECURITY ENGINEER`**
+<br/><a href="https://linktr.ee/noahsec">View My Portfolio</a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Noah.;I+love+Cyber+Security.;I+love+Computer+Science.;I+love+Engineering.;Thanks+for+stopping+by!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+Security+Engineering.;Artifical+Intelligence+&+Machine+Learning.;Information+Technology+(IT)+Security+Governance,+Risk,+Compliance+(GRC).;Security+&+Technology+Research.;Penetration+Testing+&+Red+Teaming.;&center=true&width=500&height=50"></a>
 </p>
 
 Welcome to the profile readme! I am a student with interdisciplinary experience currently studying Information Assurance and Computer Science, and have completed many courses and certification exams in Cybersecurity. Additionally, I am enrolled in a university degree program in Cybersecurity. <b>This is where I store projects, labs and scripts relating to my studies and research into various aspects of information technology.
