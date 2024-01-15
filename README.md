@@ -5,6 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Security+Engineering.;Security+Research.;Cloud+Security.;AI+Security.;Security+GRC.;Penetration+Testing.;Red+Teaming.)](https://git.io/typing-svg)
 
+<span style="color:A81919">
+    markdown color font styles
+</span>
+
+
 Welcome to the profile readme! I am a student with interdisciplinary experience currently studying Information Assurance and Computer Science, and have completed many courses and certification exams in Cybersecurity. Additionally, I am enrolled in a university degree program in Cybersecurity. <b>This is where I store projects, labs and scripts relating to my studies and research into various aspects of information technology.
 
 My interests are very diverse, so expect to find projects in varying languages and for varying puroses. 
