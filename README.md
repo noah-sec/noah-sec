@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Security+Engineering.;Security+Research.;Cloud+Security.;AI+Security.;Security+GRC.;Penetration+Testing.;Red+Teaming.)](https://git.io/typing-svg)
 
-<span style="color:A81919">
+<span style="color:red">
     markdown color font styles
 </span>
 
