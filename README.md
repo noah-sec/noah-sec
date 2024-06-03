@@ -54,7 +54,7 @@ I'm a university student in information security, and this is where I store some
 #
 
 <p align="center">
-	<img src="https://giphy.com/gifs/natgeochannel-10PNyg7YOcaBQA.gif">
+	<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh3aWx5aDA5c2cwM2p1b2xvM3VkNXJkYWE1bTJtNXoxMWszODF5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wwv6MnSsQwP6/giphy.gif" />
 </p>
 </div>
 </p>
