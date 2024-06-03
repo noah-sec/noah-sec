@@ -87,7 +87,7 @@ I'm a university student in information security, and this is where I store some
 #
 
 <p align="center">
-	<img src="https://media.giphy.com/media/IXnygGeB6LPPi/giphy.gif">
+	<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM5OGYxanlsY3JyOWw4cHpib25lbGpwNnZ0cHQ1aDdsamtydjlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10PNyg7YOcaBQA/giphy.gif">
 </p>
 </div>
 </p>
