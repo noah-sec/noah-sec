@@ -14,7 +14,7 @@ Noah is a recent university graduate with an interest in security engineering an
 
 <h3><a href="https://github.com/NoahAronov/python-toolbox"> Python Toolbox</a>
  </h3>
-Scripts and code from practicing security engineering.
+Scripts and code from practicing cryptography and penetration testing.
 	
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/convert-xor.py"> Convert XOR</a>
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/convert-xor-2.py"> Convert XOR 2</a>
