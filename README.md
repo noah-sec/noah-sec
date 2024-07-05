@@ -42,7 +42,7 @@ Scripts and code from practicing cryptography and penetration testing.
  
 <h3><a href="https://github.com/NoahAronov/jupyter-toolbox"> Jupyter Toolbox</a>
  </h3> 
-Notebooks from practicing compuational mathematics.
+Notebooks from practicing computational mathematics.
 
 - <a href="https://github.com/NoahAronov/jupyter-toolbox/blob/main/comp-math/"> Computational Mathematics</a>
 - <a href="https://github.com/NoahAronov/jupyter-toolbox/blob/main/applied-algebra/"> Applied Alegbra</a>
