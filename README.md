@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Security+Engineering.;Security+Research.;Cloud+Security.;AI+Security.;Security+Auditing.;Penetration+Testing.;Red+Teaming.)](https://git.io/typing-svg)
 
+Scripts and code from practicing security engineering.
 
 ---
 
@@ -40,6 +41,7 @@
  
 <h3><a href="https://github.com/NoahAronov/jupyter-toolbox"> Jupyter Toolbox</a>
  </h3> 
+Notebooks from practicing compuational mathematics.
 
 - <a href="https://github.com/NoahAronov/jupyter-toolbox/blob/main/comp-math/"> Computational Mathematics</a>
 - <a href="https://github.com/NoahAronov/jupyter-toolbox/blob/main/applied-algebra/"> Applied Alegbra</a>
