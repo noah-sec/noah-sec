@@ -1,7 +1,7 @@
 # NOAH ARONOV
 
 **`SECURITY ENGINEER`**
-<br/><a href="https://linktr.ee/noahsec">Links</a>
+<br/><a href="https://links.noahsec.pro/">Noah's Links</a>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Security+Engineering.;Security+Research.;Cloud+Security.;AI+Security.;Security+Auditing.;Penetration+Testing.;Red+Teaming.)](https://git.io/typing-svg)
