@@ -17,11 +17,11 @@ Noah is a university graduate student with an interest in security engineering a
 <h3><a href="https://github.com/NoahAronov/python-toolbox"> Python Toolbox</a></h3>
 Scripts and code from practicing cryptography and penetration testing.
 
-- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/ssh-login-brute.py"> Brute Force SSH</a>
-- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/sha256-pw-crack.py"> sha256 Password Crack</a>
-- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/web-login-brute.py"> Brute Force Web Portal</a>
-- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/sql-inject-exploit.py"> SQL Injection</a>
-- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/restricted-sql-inject.py"> Restricted SQL Injection</a>   
+- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-101/ssh-login-brute.py"> Brute Force SSH</a>
+- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-101/sha256-pw-crack.py"> sha256 Password Crack</a>
+- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-101/web-login-brute.py"> Brute Force Web Portal</a>
+- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-101/sql-inject-exploit.py"> SQL Injection</a>
+- <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-101/restricted-sql-inject.py"> Restricted SQL Injection</a>   
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/convert-xor.py"> Convert XOR</a>
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/convert-xor-2.py"> Convert XOR 2</a>
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-cryptography/brute-xor.py"> Brute XOR</a>
@@ -34,17 +34,16 @@ Scripts and code from practicing cryptography and penetration testing.
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-PEH/transpose-cipher.py"> Transpose Cipher</a>
 - <a href="https://github.com/NoahAronov/python-toolbox/blob/main/python-hacking-TCM-PEH/most-basic-keylogger.py"> Basic Keylogger (conceptual)</a>
 
-<!-- <h3><a href="https://github.com/NoahAronov/bash-toolbox"> Bash Toolbox</a>
- </h3>
+<!-- <h3><a href="https://github.com/NoahAronov/bash-toolbox"> Bash Toolbox</a></h3>
 
-<h3><a href="https://github.com/NoahAronov/powershell-toolbox"> PowerShell Toolbox</a>
- </h3>
+<h3><a href="https://github.com/NoahAronov/powershell-toolbox"> PowerShell Toolbox</a></h3>
 
-<h3><a href="https://github.com/NoahAronov/sql-toolbox"> SQL Toolbox</a>
- </h3>
+<h3><a href="https://github.com/NoahAronov/sql-toolbox"> SQL Toolbox</a></h3>
+ 
+<h3><a href="https://github.com/NoahAronov/sql-toolbox"> SQL Toolbox</a></h3>-->
 
-<h3><a href="https://github.com/NoahAronov/rust-toolbox"> Rust Toolbox</a>
- </h3> -->
+<h3><a href="https://github.com/NoahAronov/rust-toolbox"> Rust Toolbox</a></h3> 
+Scripts and code from practicing penetration testing.
  
 <h3><a href="https://github.com/NoahAronov/jupyter-toolbox"> Jupyter Toolbox</a></h3>
 Notebooks from practicing computational mathematics.
