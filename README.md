@@ -56,14 +56,6 @@ These projects are a tangible demonstration of some of the skills I offer to org
 <hr/>
 
 ## Security Engineering
-🔵 <a href="https://github.com/noah-sec/">**Azure Cloud Purple Teaming, Threat Hunting, and Security Operations**</a> <br/>
-*test test test* 
-<br/>
-<br/>
-🔵 <a href="https://github.com/noah-sec/">**Vulnerability Scanning, Analysis, and Remediation with Nessus**</a> <br/>
-*test test test* 
-<br/>
-<br/>
 🔵 <a href="https://github.com/noah-sec/python-toolbox">**Python Security Automation Toolbox**</a> <br/>
 *test test test* 
 <br/>
@@ -74,6 +66,38 @@ These projects are a tangible demonstration of some of the skills I offer to org
 <br/>
 🔵 <a href="https://github.com/noah-sec/">**Designing, Administering, and Securing a Website with Cloudflare**</a> <br/>
 *test test test* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Defend against cyberthreats with Microsoft Defender XDR**</a> <br/>
+*Configured a Defender XDR environment, managed devices by using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Implement information protection and data loss prevention in Microsoft Purview**</a> <br/>
+*Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview**</a> <br/>
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Prepare security and compliance to support Microsoft 365 Copilot**</a> <br/>
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Configure secure access to your workloads using Azure networking**</a> <br/>
+*Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Secure storage for Azure Files and Azure Blob Storage**</a> <br/>
+*Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Administer Active Directory Domain Services**</a> <br/>
+*Deployed and managed AD DS domain controllers, configured Active Directory topology, created and managed AD DS objects, created and configured Group Policy Objects (GPOs) in AD DS, managed security in AD DS.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/">**Deploy and administer Linux virtual machines on Microsoft Azure**</a> <br/>
+*Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.* 
 <br/>
 <br/>
 🔵 <a href="https://github.com/noah-sec/">**Capstone: Secure Network Infrastructure Deployment**</a> <br/>
