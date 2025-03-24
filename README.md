@@ -27,7 +27,7 @@ These projects are a tangible demonstration of some of the skills I offer to org
 
 ## Connect
 
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/x-twitter.svg" />][twitter]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.simpleicons.org/x.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/___________
