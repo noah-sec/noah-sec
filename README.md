@@ -8,26 +8,37 @@ These projects are a tangible demonstration of some of the skills I offer to org
 
 ## Offensive Security
 🔴 <a href="https://github.com/noah-sec/">**Active Directory Penetration Testing and Red Teaming Homelab**</a> <br/>
-   *test test test* 
+*test test test* 
 <br/>
 <br/>
 🔴 <a href="https://github.com/noah-sec/">**Cloud Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 🔴 <a href="https://github.com/noah-sec/">**Web Penetration Test and Threat Assessment**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 🔴 <a href="https://github.com/noah-sec/">**Professional OSINT Investigation and Report with Social Engineering**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 🔴 <a href="https://github.com/noah-sec/">**Capstone: AI-Enhanced Red Team Engagement**</a> <br/>
+*test test test* 
+<br/>
 <br/>
 <hr/>
 
 ## Threat Hunting
-🟣 **Threat Hunting Scenario 1**</a> <br/>
-🟣 **Threat Hunting Scenario 2**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 2**</a> <br/>
 <br/>
 <hr/>
 
 ## Vulnerability Management
-🟢 **Vulnerability Management Program Implementation**</a> <br/>
-🟢 **Security Automation of Vulnerability Remediation 1**</a> <br/>
-🟢 **Security Automation of Vulnerability Remediation 2**</a> <br/>
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
 <br/>
 <hr/>
 
