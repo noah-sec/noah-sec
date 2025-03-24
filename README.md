@@ -13,6 +13,7 @@ These projects are a tangible demonstration of some of the skills I offer to org
 🔴 **Professional OSINT Investigation and Report with Social Engineering** <br/>
 🔴 **Vulnerability Scanning, Analysis, and Remediation** <br/>
 🔴 **Capstone: AI-Enhanced Red Team Engagement** <br/>
+<br/>
 
 <hr/>
 
@@ -22,6 +23,7 @@ These projects are a tangible demonstration of some of the skills I offer to org
 🔵 **Network Engineering, Administration, and Security Homelab** <br/>
 🔵 **Designing, Administering, and Securing a Website with Cloudflare** <br/>
 🔵 **Capstone: Secure Network Infrastructure Deployment** <br/>
+<br/>
 
 <hr/>
 
