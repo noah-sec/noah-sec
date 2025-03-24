@@ -7,37 +7,37 @@ These projects are a tangible demonstration of some of the skills I offer to org
 <hr/>
 
 ## Offensive Security
-🔴 <a href="https://github.com/noah-sec/">**Active Directory Penetration Testing and Red Teaming Homelab** <br/>
+🔴 <a href="https://github.com/noah-sec/">**Active Directory Penetration Testing and Red Teaming Homelab**</a> <br/>
    *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Cloud Reconnaissance and Enumeration in Azure, AWS, and GCP** <br/>
-🔴 <a href="https://github.com/noah-sec/">**Web Penetration Test and Threat Assessment** <br/>
-🔴 <a href="https://github.com/noah-sec/">**Professional OSINT Investigation and Report with Social Engineering** <br/>
-🔴 <a href="https://github.com/noah-sec/">**Capstone: AI-Enhanced Red Team Engagement** <br/>
+🔴 <a href="https://github.com/noah-sec/">**Cloud Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Web Penetration Test and Threat Assessment**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Professional OSINT Investigation and Report with Social Engineering**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Capstone: AI-Enhanced Red Team Engagement**</a> <br/>
 <br/>
 <hr/>
 
 ## Threat Hunting
-🟣 **Threat Hunting Scenario 1** <br/>
-🟣 **Threat Hunting Scenario 2** <br/>
+🟣 **Threat Hunting Scenario 1**</a> <br/>
+🟣 **Threat Hunting Scenario 2**</a> <br/>
 <br/>
 <hr/>
 
 ## Vulnerability Management
-🟢 **Vulnerability Management Program Implementation** <br/>
-🟢 **Security Automation of Vulnerability Remediation 1** <br/>
-🟢 **Security Automation of Vulnerability Remediation 2** <br/>
+🟢 **Vulnerability Management Program Implementation**</a> <br/>
+🟢 **Security Automation of Vulnerability Remediation 1**</a> <br/>
+🟢 **Security Automation of Vulnerability Remediation 2**</a> <br/>
 <br/>
 <hr/>
 
 ## Security Engineering
-🔵 <a href="https://github.com/noah-sec/">**Azure Cloud Purple Teaming, Threat Hunting, and Security Operations** <br/>
-🔵 <a href="https://github.com/noah-sec/">**Vulnerability Scanning, Analysis, and Remediation with Nessus** <br/>
+🔵 <a href="https://github.com/noah-sec/">**Azure Cloud Purple Teaming, Threat Hunting, and Security Operations**</a> <br/>
+🔵 <a href="https://github.com/noah-sec/">**Vulnerability Scanning, Analysis, and Remediation with Nessus**</a> <br/>
 🔵 <a href="https://github.com/noah-sec/python-toolbox">**Python Security Automation Toolbox**</a> <br/>
-🔵 <a href="https://github.com/noah-sec/">**Network Engineering, Administration, and Security Homelab** <br/>
-🔵 <a href="https://github.com/noah-sec/">**Designing, Administering, and Securing a Website with Cloudflare** <br/>
-🔵 <a href="https://github.com/noah-sec/">**Capstone: Secure Network Infrastructure Deployment** <br/>
+🔵 <a href="https://github.com/noah-sec/">**Network Engineering, Administration, and Security Homelab**</a> <br/>
+🔵 <a href="https://github.com/noah-sec/">**Designing, Administering, and Securing a Website with Cloudflare**</a> <br/>
+🔵 <a href="https://github.com/noah-sec/">**Capstone: Secure Network Infrastructure Deployment**</a> <br/>
 <br/>
 <hr/>
 
