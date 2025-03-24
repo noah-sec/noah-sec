@@ -8,7 +8,8 @@ These projects are a tangible demonstration of some of the skills I offer to org
 
 ## Offensive Security
 🔴 **Active Directory Penetration Testing and Red Teaming Homelab** <br/>
--  test test test <br/>
+*test test test* 
+<br/>
 🔴 **Cloud Reconnaissance and Enumeration in Azure, AWS, and GCP** <br/>
 🔴 **Web Penetration Test and Threat Assessment** <br/>
 🔴 **Professional OSINT Investigation and Report with Social Engineering** <br/>
