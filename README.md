@@ -28,7 +28,7 @@ These projects are a tangible demonstration of some of the skills I offer to org
 ## Connect
 
 [<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/x/32" />][twitter]
-[<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/linkedin/32" />][linkedin]
+[<img align="left" alt="f" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/___________
