@@ -32,6 +32,10 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 # Secure by Design
 
+<p align="center">
+  <img width="800px" src="https://insights.sei.cmu.edu/media/images/server-room.max-1280x720.format-webp.webp">
+</p>
+
 ### Endpoint Security
 
 ### ZTNA and SASE
