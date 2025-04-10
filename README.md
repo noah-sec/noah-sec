@@ -2,9 +2,59 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Offensive+Security.;Security+Engineering.;Security+Research.)](https://git.io/typing-svg)
 
-These projects are a tangible demonstration of some of the skills I offer to organizations as an **information security specialist**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
+These projects are a selected demonstration of some of the skills I offer to organizations as an **information security engineer**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
 
 <hr/>
+
+# Proactive Security
+
+## Vulnerability Management
+
+## Threat Hunting
+
+## Penetration Testing
+
+## Open-Source Intelligence (OSINT)
+
+## Cyber Threat Intelligence (CTI)
+
+## Social Engineering
+
+## Red Teaming and Offensive Cyber Operations
+
+## Security Development
+
+<hr/>
+
+# Secure by Design
+
+## Endpoint Security
+
+## ZTNA and SASE
+
+## IAM and PAM
+
+## Hybrid Multi-Cloud Security
+
+## Docker, Kubernetes, AppSec, APISec, and DevSecOps
+
+## AI Risk, Safety, Ethics, and Security
+
+## Security Architecture
+
+## Security Automation
+
+<hr/>
+
+# Reactive Security
+
+## Security Operations and Incident Response
+
+
+
+
+
+
 
 ## Offensive Security
 🔴 <a href="https://github.com/noah-sec/">**Active Directory Penetration Testing and Red Teaming Homelab**</a> <br/>
