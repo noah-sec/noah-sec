@@ -13,15 +13,15 @@ These projects are a selected demonstration of some of the skills I offer to org
 </p>
 
 ### Vulnerability Management
-🟢 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
@@ -36,16 +36,22 @@ These projects are a selected demonstration of some of the skills I offer to org
 <br/>
 
 ### Penetration Testing
+🔴
 
 ### Open-Source Intelligence (OSINT)
+🟣
 
 ### Cyber Threat Intelligence (CTI)
+🟣
 
 ### Social Engineering
+🔴
 
 ### Red Teaming and Offensive Cyber Operations
+🔴
 
 ### Security Development
+🟣
 
 <hr/>
 
@@ -56,20 +62,28 @@ These projects are a selected demonstration of some of the skills I offer to org
 </p>
 
 ### Endpoint Security
+🔵
 
 ### ZTNA and SASE
+🔵
 
 ### IAM and PAM
+🔵
 
 ### Hybrid Multi-Cloud Security
+🔵
 
-### Docker, Kubernetes, AppSec, APISec, and DevSecOps
+### AppSec, APISec, and DevSecOps
+🔵
 
 ### AI Risk, Safety, Ethics, and Security
+🔵
 
 ### Security Architecture
+🟢
 
 ### Security Automation
+🟢
 
 <hr/>
 
@@ -80,7 +94,7 @@ These projects are a selected demonstration of some of the skills I offer to org
 </p>
 
 ### Security Operations and Incident Response
-
+🔵
 
 
 
