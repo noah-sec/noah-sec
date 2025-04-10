@@ -25,8 +25,6 @@ These projects are a selected demonstration of some of the skills I offer to org
 *test test test* 
 <br/>
 <br/>
-<hr/>
-
 ### Threat Hunting
 🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
 *test test test* 
@@ -36,7 +34,6 @@ These projects are a selected demonstration of some of the skills I offer to org
 *test test test* 
 <br/>
 <br/>
-<hr/>
 
 ### Penetration Testing
 
