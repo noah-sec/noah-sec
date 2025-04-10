@@ -9,7 +9,7 @@ These projects are a selected demonstration of some of the skills I offer to org
 # Proactive Security
 
 <p align="center">
-  <img width="300px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
+  <img width="800px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
 </p>
 
 ### Vulnerability Management
