@@ -13,10 +13,6 @@ These projects are a selected demonstration of some of the skills I offer to org
 </p>
 
 ### Vulnerability Management
-🟣 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
-*test test test* 
-<br/>
-<br/>
 🟣 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
 *test test test* 
 <br/>
@@ -80,7 +76,10 @@ These projects are a selected demonstration of some of the skills I offer to org
 🔵
 
 ### Security Architecture
-🟢
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 
 ### Security Automation
 🟢
