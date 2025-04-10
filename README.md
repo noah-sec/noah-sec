@@ -8,21 +8,21 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 # Proactive Security
 
-## Vulnerability Management
+### Vulnerability Management
 
-## Threat Hunting
+### Threat Hunting
 
-## Penetration Testing
+### Penetration Testing
 
-## Open-Source Intelligence (OSINT)
+### Open-Source Intelligence (OSINT)
 
-## Cyber Threat Intelligence (CTI)
+### Cyber Threat Intelligence (CTI)
 
-## Social Engineering
+### Social Engineering
 
-## Red Teaming and Offensive Cyber Operations
+### Red Teaming and Offensive Cyber Operations
 
-## Security Development
+### Security Development
 
 <hr/>
 
