@@ -56,6 +56,10 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 # Reactive Security
 
+<p align="center">
+  <img width="800px" src="https://sentreesystems.com/wp-content/uploads/2023/08/SOC-Services.jpg">
+</p>
+
 ### Security Operations and Incident Response
 
 
