@@ -8,6 +8,10 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 # Proactive Security
 
+<p align="center">
+  <img width="300px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
+</p>
+
 ### Vulnerability Management
 
 ### Threat Hunting
@@ -28,27 +32,27 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 # Secure by Design
 
-## Endpoint Security
+### Endpoint Security
 
-## ZTNA and SASE
+### ZTNA and SASE
 
-## IAM and PAM
+### IAM and PAM
 
-## Hybrid Multi-Cloud Security
+### Hybrid Multi-Cloud Security
 
-## Docker, Kubernetes, AppSec, APISec, and DevSecOps
+### Docker, Kubernetes, AppSec, APISec, and DevSecOps
 
-## AI Risk, Safety, Ethics, and Security
+### AI Risk, Safety, Ethics, and Security
 
-## Security Architecture
+### Security Architecture
 
-## Security Automation
+### Security Automation
 
 <hr/>
 
 # Reactive Security
 
-## Security Operations and Incident Response
+### Security Operations and Incident Response
 
 
 
