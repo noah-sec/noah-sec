@@ -13,8 +13,30 @@ These projects are a selected demonstration of some of the skills I offer to org
 </p>
 
 ### Vulnerability Management
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+🟢 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+<hr/>
 
 ### Threat Hunting
+🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 2**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+<hr/>
 
 ### Penetration Testing
 
@@ -68,7 +90,7 @@ These projects are a selected demonstration of some of the skills I offer to org
 
 
 
-## Offensive Security
+<!--## Offensive Security
 🔴 <a href="https://github.com/noah-sec/">**Active Directory Penetration Testing and Red Teaming Homelab**</a> <br/>
 *test test test* 
 <br/>
@@ -117,7 +139,7 @@ These projects are a selected demonstration of some of the skills I offer to org
 <br/>
 <hr/>
 
-## Security Engineering
+ ## Security Engineering
 🔵 <a href="https://github.com/noah-sec/python-toolbox">**Python Security Automation Toolbox**</a> <br/>
 *test test test* 
 <br/>
@@ -166,7 +188,7 @@ These projects are a selected demonstration of some of the skills I offer to org
 *test test test* 
 <br/>
 <br/>
-<hr/>
+<hr/> -->
 
 ## Connect
 
