@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Offensive+Security.;Security+Engineering.;Security+Research.)](https://git.io/typing-svg)
 
-These projects are a selected demonstration of some of the skills I offer to organizations as an **information security engineer**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
+These selected projects are a demonstration of some of the primary skills I offer to organizations as an **information security engineer**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
 
 <hr/>
 
