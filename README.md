@@ -13,32 +13,31 @@ These selected projects are a demonstration of some of the primary skills I offe
 </p>
 
 ### Vulnerability Management
-🟣 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🟣 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
 ### Threat Hunting
-🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🟣 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-
 ### Penetration Testing
 🔴
 
 ### Open-Source Intelligence (OSINT)
-🟣
+🔴
 
 ### Cyber Threat Intelligence (CTI)
-🟣
+🔴
 
 ### Social Engineering
 🔴
@@ -47,7 +46,7 @@ These selected projects are a demonstration of some of the primary skills I offe
 🔴
 
 ### Security Development
-🟢
+🔴
 
 <hr/>
 
@@ -58,31 +57,31 @@ These selected projects are a demonstration of some of the primary skills I offe
 </p>
 
 ### Endpoint Security
-🔵
+🟣
 
 ### ZTNA and SASE
-🔵
+🟣
 
 ### IAM and PAM
-🔵
+🟣
 
 ### Hybrid Multi-Cloud Security
-🔵
+🟣
 
 ### AppSec, APISec, and DevSecOps
-🔵
+🟣
 
 ### AI Risk, Safety, Ethics, and Security
-🔵
+🟣
 
 ### Security Architecture
-🟢 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+🟣 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
 <br/>
 
 ### Security Automation
-🟢
+🟣
 
 <hr/>
 
