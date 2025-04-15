@@ -12,7 +12,7 @@ The following selected projects are a demonstration of some of the primary skill
   <img width="800px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
 </p>
 
-## Vulnerability Management
+### Vulnerability Management
 🔴 <a href="https://github.com/noah-sec/">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 1**</a> <br/>
 *test test test* 
 <br/>
@@ -25,7 +25,7 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-## Threat Hunting
+### Threat Hunting
 🔴 <a href="https://github.com/noah-sec/">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 1**</a> <br/>
 *test test test* 
 <br/>
@@ -34,22 +34,22 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-## Penetration Testing
+### Penetration Testing
 🔴 <a href="https://github.com/noah-sec/">**Active Directory Offensive Security Testing**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-## Open-Source Intelligence (OSINT)
+### Open-Source Intelligence (OSINT)
 🔴 <a href="https://github.com/noah-sec/">**Professional OSINT Investigation and Report**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-## Social Engineering
+### Social Engineering
 🔴 <a href="https://github.com/noah-sec/">**Sock Puppets, Phishing, and Social Media OSINT**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-## Red Teaming and Offensive Cyber Operations
+### Red Teaming and Offensive Cyber Operations
 🔴 <a href="https://github.com/noah-sec/">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
 <br/>
@@ -58,7 +58,7 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-## Security Development
+### Security Development
 🔴 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
