@@ -135,15 +135,6 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/> 
-### Data Security
-🟣 <a href="https://github.com/noah-sec/">**Implement Information Protection and Data Loss Prevention in Microsoft Purview**</a> <br/>
-*Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.* 
-<br/>
-<br/>
-🟣 <a href="https://github.com/noah-sec/">**Implement Retention, eDiscovery, and Communication Compliance in Microsoft Purview**</a> <br/>
-*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.* 
-<br/>
-<br/>
 ### Hybrid Multi-Cloud Security
 🟣 <a href="https://github.com/noah-sec/">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
 *test test test* 
@@ -153,7 +144,15 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-### AI, ML, and LLM Security
+### Data, AI, ML, and LLM Security
+🟣 <a href="https://github.com/noah-sec/">**Implement Information Protection and Data Loss Prevention in Microsoft Purview**</a> <br/>
+*Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.* 
+<br/>
+<br/>
+🟣 <a href="https://github.com/noah-sec/">**Implement Retention, eDiscovery, and Communication Compliance in Microsoft Purview**</a> <br/>
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.* 
+<br/>
+<br/>
 🟣 <a href="https://github.com/noah-sec/">**Prepare Security and Compliance to Support Microsoft 365 Copilot**</a> <br/>
 *Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.* 
 <br/>
