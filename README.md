@@ -93,6 +93,10 @@ The following selected projects are a demonstration of some of the primary skill
 *Deployed and managed AD DS domain controllers, configured Active Directory topology, created and managed AD DS objects, created and configured Group Policy Objects (GPOs) in AD DS, managed security in AD DS.* 
 <br/>
 <br/>
+🟣 <a href="https://github.com/noah-sec/">**Active Directory Offensive Security Testing**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 🟣 <a href="https://github.com/noah-sec/">**Deploy and Administer Linux Virtual Machines (VMs) on Microsoft Azure**</a> <br/>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.* 
 <br/>
