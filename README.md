@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=A81919&random=false&width=300&lines=Offensive+Security.;Security+Engineering.;Security+Research.)](https://git.io/typing-svg)
 
-These selected projects are a demonstration of some of the primary skills I offer to organizations as an **information security engineer**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
+The following selected projects are a demonstration of some of the primary skills I offer to organizations as an **information security engineer**. Learn more about me at my professional <a href="https://noahsec.pro/">website</a>.
 
 <hr/>
 
@@ -13,20 +13,20 @@ These selected projects are a demonstration of some of the primary skills I offe
 </p>
 
 ### Vulnerability Management
-🔴 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Vulnerability Remediation Automation 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
 ### Threat Hunting
-🔴 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Threat Hunting Scenario 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
@@ -43,7 +43,7 @@ These selected projects are a demonstration of some of the primary skills I offe
 🔴
 
 ### Red Teaming and Offensive Cyber Operations
-🔴
+🔴 
 
 ### Security Development
 🔴
@@ -66,22 +66,38 @@ These selected projects are a demonstration of some of the primary skills I offe
 🟣
 
 ### Hybrid Multi-Cloud Security
-🟣
+🟣 
 
 ### AppSec, APISec, and DevSecOps
+🟣 <a href="https://github.com/noah-sec/">**Web Development and Design with Cloudflare Web Security**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+<!--### AI Risk, Safety, Ethics, and Security
 🟣
-
-### AI Risk, Safety, Ethics, and Security
-🟣
-
+-->
 ### Security Architecture
 🟣 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-
+🟣 <a href="https://github.com/noah-sec/">**Secure Network Infrastructure Deployment**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 ### Security Automation
-🟣
+<!--🟣 <a href="https://github.com/noah-sec/">**Bash Scripting Toolbox**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+🟣 <a href="https://github.com/noah-sec/">**PowerShell Scripting Toolbox**</a> <br/>
+*test test test* 
+<br/>
+<br/>-->
+🟣 <a href="https://github.com/noah-sec/">**Python Scripting Toolbox**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 
 <hr/>
 
