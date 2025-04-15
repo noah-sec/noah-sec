@@ -36,9 +36,6 @@ The following selected projects are a demonstration of some of the primary skill
 ### Open-Source Intelligence (OSINT)
 🔴
 
-### Cyber Threat Intelligence (CTI)
-🔴
-
 ### Social Engineering
 🔴
 
