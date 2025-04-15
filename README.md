@@ -59,7 +59,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ## Security Development
-🔴 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
 <br/>
