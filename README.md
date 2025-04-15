@@ -50,16 +50,15 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ### Red Teaming and Offensive Cyber Operations
+🔴 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
+*test test test* 
+<br/>
+<br/>
 🔴 <a href="https://github.com/noah-sec/">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
 <br/>
 <br/>
 🔴 <a href="https://github.com/noah-sec/">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
-*test test test* 
-<br/>
-<br/>
-### Security Development
-🔴 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
 <br/>
@@ -170,12 +169,16 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-### Security Automation
-<!--🟣 <a href="https://github.com/noah-sec/">**Bash Scripting Toolbox**</a> <br/>
+### Security Development and Automation
+🟣 <a href="https://github.com/noah-sec/">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🟣 <a href="https://github.com/noah-sec/">**PowerShell Scripting Toolbox**</a> <br/>
+<!--🟣 <a href="https://github.com/noah-sec/">**Bash Security Automation Toolbox**</a> <br/>
+*test test test* 
+<br/>
+<br/>
+🟣 <a href="https://github.com/noah-sec/">**PowerShell Security Automation Toolbox**</a> <br/>
 *test test test* 
 <br/>
 <br/>-->
