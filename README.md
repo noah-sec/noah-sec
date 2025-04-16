@@ -13,25 +13,25 @@ The following selected projects are a demonstration of some of the primary skill
 </p>
 
 ### Vulnerability Management
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 1**</a> <br/>
-*test test test* 
+🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 2**</a> <br/>
-*test test test* 
+🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
 <br/>
 🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
-*test test test* 
+*Design and implementation of an enterprise vulnerability management program.* 
 <br/>
 <br/>
 ### Threat Hunting
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 1**</a> <br/>
-*test test test* 
+🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
+*Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 2**</a> <br/>
-*test test test* 
+🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a> <br/>
+*Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
 <br/>
 ### Penetration Testing
@@ -202,6 +202,14 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 🔵 <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defend Against Cyberthreats with Microsoft Defender XDR**</a> <br/>
 *Configured a Defender XDR environment, managed devices by using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a> <br/>
+*Security operations with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
+<br/>
+<br/>
+🔵 <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a> <br/>
+*Security operations with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
 <br/>
 
