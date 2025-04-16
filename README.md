@@ -13,24 +13,24 @@ The following selected projects are a demonstration of some of the primary skill
 </p>
 
 ### Vulnerability Management
-🔴 <a href="https://github.com/noah-sec/">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/projects/vuln-1.md">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/projects/vuln-2.md">**Automated Vulnerability Scan Remediation with Nessus and PowerShell 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Vulnerability Management Program Implementation**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/projects/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
 <br/>
 ### Threat Hunting
-🔴 <a href="https://github.com/noah-sec/">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 1**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/projects/threat-1.md">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 1**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-🔴 <a href="https://github.com/noah-sec/">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 2**</a> <br/>
+🔴 <a href="https://github.com/noah-sec/projects/threat-2.md">**Threat Hunting with Azure Sentinel SIEM/SOAR and Defender EDR/XDR 2**</a> <br/>
 *test test test* 
 <br/>
 <br/>
