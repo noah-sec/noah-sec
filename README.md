@@ -174,14 +174,6 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-🟣 <a href="https://github.com/noah-sec/projects/blob/main/bash-toolbox.md">**Bash Security Automation Toolbox**</a> <br/>
-*test test test* 
-<br/>
-<br/>
-🟣 <a href="https://github.com/noah-sec/projects/blob/main/powershell-toolbox.md">**PowerShell Security Automation Toolbox**</a> <br/>
-*test test test* 
-<br/>
-<br/>
 🟣 <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a> <br/>
 *test test test* 
 <br/>
