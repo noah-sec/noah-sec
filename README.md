@@ -64,109 +64,84 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Containerized Remote Desktop and Browser Isolation Sandbox with Kasm**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Containerized Services with CI/CD and Infrastructure as Code**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defend Against Cyberthreats with Microsoft Defender XDR**</a> <br/>
 *Configured a Defender XDR environment, managed devices by using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files and Azure Blob Storage**</a> <br/>
 *Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Administer Active Directory Domain Services**</a> <br/>
 *Deployed and managed AD DS domain controllers, configured Active Directory topology, created and managed AD DS objects, created and configured Group Policy Objects (GPOs) in AD DS, managed security in AD DS.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy and Administer Linux Virtual Machines (VMs) on Microsoft Azure**</a> <br/>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows and Linux Endpoint Security Hardening**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ### 🟣 Network and Web Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Tunneled Mesh Network with Tailscale**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Workloads using Azure Networking**</a> <br/>
 *Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment and Threat Consultation**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Web Development and Design with Cloudflare Web Security**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Secure Network Infrastructure Deployment**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ### 🟣 Identity and Access Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Privileged Access Management with Passkeys and Remote Administration**</a> <br/>
 *test test test* 
 <br/>
-<br/> 
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure Accounts and Communications for a High Threat Profile**</a> <br/>
 *test test test* 
-<br/>
 <br/> 
 ### 🟣 Hybrid Multi-Cloud Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ### 🟣 Data, AI, ML, and LLM Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection and Data Loss Prevention in Microsoft Purview**</a> <br/>
 *Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, and Communication Compliance in Microsoft Purview**</a> <br/>
 *Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security and Compliance to Support Microsoft 365 Copilot**</a> <br/>
 *Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ### 🟣 Security Architecture
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Secure Network Infrastructure Deployment**</a> <br/>
 *test test test* 
-<br/>
 <br/>
 ### 🟣 Security Development and Automation
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a> <br/>
 *test test test* 
-<br/>
-<br/>
+<br/> 
 
 <hr/>
 
@@ -180,18 +155,14 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
 *test test test* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defend Against Cyberthreats with Microsoft Defender XDR**</a> <br/>
 *Configured a Defender XDR environment, managed devices by using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.* 
-<br/>
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a> <br/>
 *Security operations with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
-<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a> <br/>
 *Security operations with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
-<br/>
 <br/>
 
 <hr/>
