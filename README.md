@@ -14,13 +14,13 @@ The following selected projects are a demonstration of some of the primary skill
 
 ### Vulnerability Management
 🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
-*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
+  *Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
 🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
-*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
+  *Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
 🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
-*Design and implementation of an enterprise vulnerability management program.* 
+  *Design and implementation of an enterprise vulnerability management program.* 
 <br/>
 ### Threat Hunting
 🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
