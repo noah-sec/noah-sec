@@ -22,6 +22,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
 *Design and implementation of an enterprise vulnerability management program.* 
 <br/>
+<br/>
 ### 🔴 Threat Hunting
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
@@ -29,17 +30,21 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a> <br/>
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
+<br/>
 ### 🔴 Penetration Testing
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
 *test test test* 
+<br/>
 <br/>
 ### 🔴 Open-Source Intelligence (OSINT)
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional OSINT Investigation and Report**</a> <br/>
 *test test test* 
 <br/>
+<br/>
 ### 🔴 Social Engineering
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Sock Puppets, Phishing, and Social Media OSINT**</a> <br/>
 *test test test* 
+<br/>
 <br/>
 ### 🔴 Red Teaming and Offensive Cyber Operations
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
@@ -50,6 +55,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
 *AI is used to enhance the capabilities of a red team while assessing a company with AI assets.* 
+<br/>
 <br/>
 
 <hr/>
@@ -85,6 +91,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows and Linux Endpoint Security Hardening**</a> <br/>
 *test test test* 
 <br/>
+<br/>
 ### 🟣 Network and Web Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Tunneled Mesh Network with Tailscale**</a> <br/>
 *test test test* 
@@ -101,6 +108,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Secure Network Infrastructure Deployment**</a> <br/>
 *test test test* 
 <br/>
+<br/>
 ### 🟣 Identity and Access Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Privileged Access Management with Passkeys and Remote Administration**</a> <br/>
 *test test test* 
@@ -108,12 +116,14 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure Accounts and Communications for a High Threat Profile**</a> <br/>
 *test test test* 
 <br/> 
+<br/>
 ### 🟣 Hybrid Multi-Cloud Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
+<br/>
 <br/>
 ### 🟣 Data, AI, ML, and LLM Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection and Data Loss Prevention in Microsoft Purview**</a> <br/>
@@ -128,6 +138,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
 *test test test* 
 <br/>
+<br/>
 ### 🟣 Security Architecture
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
@@ -141,7 +152,8 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a> <br/>
 *test test test* 
-<br/> 
+<br/>
+<br/>
 
 <hr/>
 
@@ -163,6 +175,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a> <br/>
 *Security operations with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
+<br/>
 <br/>
 
 <hr/>
