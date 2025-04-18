@@ -6,49 +6,49 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr/>
 
-## Proactive Security
+## 🔴 Proactive Security
 
 <p align="center">
   <img width="800px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
 </p>
 
 ### Vulnerability Management
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
-  *Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
+◽ <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
-  *Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
+◽ <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
-  *Design and implementation of an enterprise vulnerability management program.* 
+◽ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
+*Design and implementation of an enterprise vulnerability management program.* 
 <br/>
 ### Threat Hunting
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a> <br/>
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
 ### Penetration Testing
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
 *test test test* 
 <br/>
 ### Open-Source Intelligence (OSINT)
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional OSINT Investigation and Report**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional OSINT Investigation and Report**</a> <br/>
 *test test test* 
 <br/>
 ### Social Engineering
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Sock Puppets, Phishing, and Social Media OSINT**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Sock Puppets, Phishing, and Social Media OSINT**</a> <br/>
 *test test test* 
 <br/>
 ### Red Teaming and Offensive Cyber Operations
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
 <br/>
-🔴 <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
+◽ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
 *AI is used to enhance the capabilities of a red team while assessing a company with AI assets.* 
 <br/>
 
