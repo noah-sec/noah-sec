@@ -6,7 +6,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr/>
 
-## Proactive Security
+## PROACTIVE SECURITY
 
 <p align="center">
   <img width="800px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
@@ -54,7 +54,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr/>
 
-## Secure by Design
+## SECURE BY DESIGN
 
 <p align="center">
   <img width="800px" src="https://insights.sei.cmu.edu/media/images/server-room.max-1280x720.format-webp.webp">
@@ -145,7 +145,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr/>
 
-## Reactive Security
+## REACTIVE SECURITY
 
 <p align="center">
   <img width="800px" src="https://sentreesystems.com/wp-content/uploads/2023/08/SOC-Services.jpg">
