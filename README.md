@@ -77,7 +77,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ### 🟣 Network and Web Security
-◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Architecture with a Mesh Overlay Networkt**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Architecture with a Mesh Overlay Network**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Workloads using Azure Networking**</a> <br/>
