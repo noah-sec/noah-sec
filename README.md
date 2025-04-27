@@ -8,10 +8,6 @@ The following selected projects are a demonstration of some of the primary skill
 
 ## PROACTIVE SECURITY
 
-<p align="center">
-  <img width="800px" src="https://rebeccaryan.com/assets/images/graphics/_1200x630_crop_center-center_82_none/red-team-chess.png">
-</p>
-
 ### 🔴 Vulnerability Management
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
 *Automated remediation of Nessus vulnerability scan with PowerShell scripting.*
@@ -61,10 +57,6 @@ The following selected projects are a demonstration of some of the primary skill
 <hr/>
 
 ## SECURE BY DESIGN
-
-<p align="center">
-  <img width="800px" src="https://insights.sei.cmu.edu/media/images/server-room.max-1280x720.format-webp.webp">
-</p>
 
 ### 🟣 Systems and DevOps Security
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Containerized Remote Desktop and Browser Isolation Sandbox with Kasm**</a> <br/>
@@ -159,9 +151,17 @@ The following selected projects are a demonstration of some of the primary skill
 
 ## REACTIVE SECURITY
 
-<p align="center">
-  <img width="800px" src="https://sentreesystems.com/wp-content/uploads/2023/08/SOC-Services.jpg">
-</p>
+### 🔵 Vulnerability Management
+◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.*
+<br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
+*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
+<br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
+*Design and implementation of an enterprise vulnerability management program.* 
+<br/>
+<br/>
 
 ### 🔵 Security Operations and Incident Response
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
