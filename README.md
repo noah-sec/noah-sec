@@ -137,7 +137,13 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Declarative Containerized Infrastructure with CI/CD and IaC**</a> <br/>
+*test test test* 
+<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a> <br/>
+*test test test* 
+<br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Static Web Development and Design with CI/CD and DDoS Protection**</a> <br/>
 *test test test* 
 <br/>
 <br/>
