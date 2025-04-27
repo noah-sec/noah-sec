@@ -16,29 +16,29 @@ The following selected projects are a demonstration of some of the primary skill
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
 <br/>
 <br/>
-### 🔴 Penetration Testing
-◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
+### 🔴 Security Testing
+◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Security Testing**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-### 🔴 Open-Source Intelligence (OSINT)
-◻ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional OSINT Investigation and Report**</a> <br/>
+### 🔴 Cyber Targeting and Intelligence
+◻ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional Open-Source Intelligence (OSINT) Investigation and Report**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-### 🔴 Social Engineering
+### 🔴 Cyber Psychology and Social Engineering
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Sock Puppets, Phishing, and Social Media OSINT**</a> <br/>
 *test test test* 
 <br/>
 <br/>
-### 🔴 Red Teaming and Offensive Cyber Operations
+### 🔴 Offensive Cyber Operations
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Cloud Offensive Reconnaissance and Enumeration in Azure, AWS, and GCP**</a> <br/>
 *test test test* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a> <br/>
 *AI is used to enhance the capabilities of a red team while assessing a company with AI assets.* 
 <br/>
 <br/>
@@ -47,11 +47,11 @@ The following selected projects are a demonstration of some of the primary skill
 
 ## SECURE BY DESIGN
 
-### 🟣 Systems and DevOps Security
-◻ <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Containerized Remote Desktop and Browser Isolation Sandbox with Kasm**</a> <br/>
+### 🟣 Infrastructure Security and DevSecOps
+◻ <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Declarative Containerized Infrastructure with CI/CD and IaC**</a> <br/>
 *test test test* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Containerized Services with CI/CD and Infrastructure as Code**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote Isolated Desktop, Browser, and Email Sandboxing**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defend Against Cyberthreats with Microsoft Defender XDR**</a> <br/>
@@ -66,10 +66,13 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a> <br/>
 *test test test* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy and Administer Linux Virtual Machines (VMs) on Microsoft Azure**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy and Administer Linux Virtual Machines on Microsoft Azure**</a> <br/>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows and Linux Endpoint Security Hardening**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation Endpoint Security Hardening**</a> <br/>
+*test test test* 
+<br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Linux Server Endpoint Security Hardening**</a> <br/>
 *test test test* 
 <br/>
 <br/>
@@ -106,7 +109,7 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test* 
 <br/>
 <br/>
-### 🟣 Data, AI, ML, and LLM Security
+### 🟣 Data Security and AISecOps
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection and Data Loss Prevention in Microsoft Purview**</a> <br/>
 *Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.* 
 <br/>
@@ -116,7 +119,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security and Compliance to Support Microsoft 365 Copilot**</a> <br/>
 *Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Red Team Assessment of AI Systems**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a> <br/>
 *test test test* 
 <br/>
 <br/>
