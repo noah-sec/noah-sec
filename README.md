@@ -17,7 +17,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ### 🔴 Security Testing
-◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Security Testing**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a> <br/>
 *test test test* 
 <br/>
 <br/>
@@ -77,7 +77,7 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ### 🟣 Network and Web Security
-◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Tunneled Mesh Network with Tailscale**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Architecture with a Mesh Overlay Networkt**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Workloads using Azure Networking**</a> <br/>
@@ -86,7 +86,7 @@ The following selected projects are a demonstration of some of the primary skill
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment and Threat Consultation**</a> <br/>
 *test test test* 
 <br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Web Development and Design with Cloudflare Web Security**</a> <br/>
+◻ <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Static Web Development and Design with CI/CD and DDoS Protection**</a> <br/>
 *test test test* 
 <br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Secure Network Infrastructure Deployment**</a> <br/>
@@ -124,6 +124,9 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 <br/>
 ### 🟣 Security Architecture
+◻ <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Architecture with a Mesh Overlay Network**</a> <br/>
+*test test test* 
+<br/>
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
 *test test test* 
 <br/>
