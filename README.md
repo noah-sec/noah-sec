@@ -8,17 +8,6 @@ The following selected projects are a demonstration of some of the primary skill
 
 ## PROACTIVE SECURITY
 
-### 🔴 Vulnerability Management
-◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Remediation 1**</a> <br/>
-*Automated remediation of Nessus vulnerability scan with PowerShell scripting.*
-<br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Remediation 2**</a> <br/>
-*Automated remediation of Nessus vulnerability scan with PowerShell scripting.* 
-<br/>
-◻ <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Vulnerability Management Program Implementation**</a> <br/>
-*Design and implementation of an enterprise vulnerability management program.* 
-<br/>
-<br/>
 ### 🔴 Threat Hunting
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a> <br/>
 *Threat hunting with Azure Sentinel SIEM/SOAR and Azure Defender EDR/XDR.* 
@@ -162,7 +151,6 @@ The following selected projects are a demonstration of some of the primary skill
 *Design and implementation of an enterprise vulnerability management program.* 
 <br/>
 <br/>
-
 ### 🔵 Security Operations and Incident Response
 ◻ <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Cloud Threat Detection and Investigation in Azure, AWS, and GCP with ELK Stack**</a> <br/>
 *test test test* 
