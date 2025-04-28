@@ -1,4 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/> 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=450a0a&width=435&lines=Hello%2C+I'm+Noah+Grayson;Security+Engineer" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=A81919&width=435&lines=Hello%2C+I'm+Noah+Grayson;Security+Engineer" alt="Business Analyst"/>
 </a>
