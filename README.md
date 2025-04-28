@@ -12,9 +12,15 @@
 
 <!-- .
 -->
-### Employer?
+### Contact
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">View my full professional website</a>
+<!-- .
+-->
+[<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/x/32" />][twitter]
+[<img align="left" alt="f" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
+[twitter]: https://x.com/___________
+[linkedin]: https://linkedin.com/in/noahsec/
 <!-- .
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
