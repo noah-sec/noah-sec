@@ -19,6 +19,8 @@
 -->
 [<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/x/32" />][twitter]
 [<img align="left" alt="f" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
+<!-- .
+-->
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
 <!-- .
