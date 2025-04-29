@@ -7,15 +7,14 @@
 </p>
 
 <!-- INTRODUCTION -->
-The following selected projects are a demonstration of some of the primary skills I offer to organizations as a **security engineer**.
-<br>
-*Some projects are categorized more than once to reflect their cross-domain emphasis.*
+<p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.</p>
+<p align=center><i>Some projects are categorized more than once to reflect their cross-domain emphasis.</i></p><br>
 
 <!-- ANIMATED TOP BANNER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
 
 <!-- PROACTIVE SECURITY -->
-<h3 align=center><b>[PROACTIVE SECURITY]</b></h3><br>
+<h3 align=center><b>PROACTIVE SECURITY</b></h3><br>
 
 <!-- THREAT HUNTING -->
 ### Threat Hunting
@@ -65,7 +64,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr>
 <!-- SECURE BY DESIGN -->
-<br><h3 align=center><b>[SECURE BY DESIGN]</b></h3><br>
+<br><h3 align=center><b>SECURE BY DESIGN</b></h3><br>
 
 <!-- INFRA AND DEVOPS -->
 ### Infrastructure & Systems Security
@@ -183,7 +182,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr>
 <!-- REACTIVE SECURITY -->
-<br><h3 align=center><b>[REACTIVE SECURITY]</b></h3>
+<br><h3 align=center><b>REACTIVE SECURITY</b></h3>
 
 <!-- IDENTITY AND ACCESS -->
 ### Vulnerability Management
