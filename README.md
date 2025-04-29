@@ -19,7 +19,7 @@ The following selected projects are a demonstration of some of the primary skill
 <hr/>
 
 <!-- . -->
-### 
+<h3>Threat Hunting</h3> 
 
 <!-- CONTACT -->
 <hr/>
