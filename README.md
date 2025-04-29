@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
 
 <!-- TITLE -->
-<h1 text=center>Security Project Portfolio</h1>
+<h1 align=center>Security Project Portfolio</h1>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -18,11 +18,10 @@ The following selected projects are a demonstration of some of the primary skill
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
 <hr/>
 
-<!-- .
--->
+<!-- . -->
+### 
 
-<!-- CONTACT
--->
+<!-- CONTACT -->
 <hr/>
 
 ### Contact
@@ -31,14 +30,11 @@ The following selected projects are a demonstration of some of the primary skill
 
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">View my full professional website</a>
-<!-- .
--->
+<!-- . -->
 [<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/x/32" />][twitter]
 [<img align="left" alt="f" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
-<!-- .
--->
+<!-- . -->
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
-<!-- .
--->
+<!-- . -->
 
