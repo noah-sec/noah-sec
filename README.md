@@ -1,5 +1,5 @@
-<!-- ANIMATED TOP BANNER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
+<!-- ANIMATED TOP BANNER 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>-->
 
 <!-- TITLE -->
 <h1>Security Project Portfolio</h1>
@@ -14,8 +14,8 @@ The following selected projects are a demonstration of some of the primary skill
 <br/>
 *Some projects are categorized twice to reflect their cross-domain emphasis.*
 
-<!-- ANIMATED BOTTOM BANNER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
+<!-- ANIMATED BOTTOM BANNER 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
 <hr/>
 
