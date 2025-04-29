@@ -79,7 +79,7 @@ The following selected projects are a demonstration of some of the primary skill
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a>
 *test test test*
-<a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a>
 *test test test*
 <br>
 
