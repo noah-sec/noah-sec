@@ -16,6 +16,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <!-- ANIMATED BOTTOM BANNER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
 <hr/>
 
 <!-- . -->
