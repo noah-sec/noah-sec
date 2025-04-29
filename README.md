@@ -38,4 +38,4 @@ The following selected projects are a demonstration of some of the primary skill
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
 <!-- . -->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
