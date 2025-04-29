@@ -65,7 +65,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr>
 <!-- SECURE BY DESIGN -->
-<h3 align=center><b>[SECURE BY DESIGN]</b></h3><br>
+<br><h3 align=center><b>[SECURE BY DESIGN]</b></h3><br>
 
 <!-- INFRA AND DEVOPS -->
 ### Infrastructure & Systems Security
@@ -183,7 +183,7 @@ The following selected projects are a demonstration of some of the primary skill
 
 <hr>
 <!-- REACTIVE SECURITY -->
-<h3 align=center><b>[REACTIVE SECURITY]</b></h3>
+<br><h3 align=center><b>[REACTIVE SECURITY]</b></h3>
 
 <!-- IDENTITY AND ACCESS -->
 ### Vulnerability Management
