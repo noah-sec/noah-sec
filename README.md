@@ -19,11 +19,11 @@
 
 <!-- CONTACT
 -->
-</hr>
+<hr/>
 
 ### Contact
 
-</br>
+<br/>
 
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">View my full professional website</a>
