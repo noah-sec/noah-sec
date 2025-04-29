@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>-->
 
 <!-- TITLE -->
-<h1>Security Project Portfolio</h1>
+<h1 align=center>Security Project Portfolio</h1>
 
 <!-- ANIMATED TYPING -->
 &nbsp;&nbsp;&nbsp;<p align=center><a href="https://git.io/typing-svg">
