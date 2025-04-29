@@ -2,7 +2,7 @@
 <!-- .
 -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=a1a1aa&width=435&lines=Hello%2C+I'm+Noah+Grayson;Security+Engineer" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=a1a1aa&width=435&lines=Hello%2C+I'm+Noah+Grayson;This+is+my+security+project+portfolio" alt="Business Analyst"/>
 </a>
 <!-- .
 -->
