@@ -9,7 +9,7 @@
 <!-- INTRODUCTION -->
 The following selected projects are a demonstration of some of the primary skills I offer to organizations as a **security engineer**.
 <br>
-*Some projects are categorized twice to reflect their cross-domain emphasis.*
+*Some projects are categorized more than once to reflect their cross-domain emphasis.*
 
 <!-- ANIMATED TOP BANNER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
