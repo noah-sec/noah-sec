@@ -17,9 +17,12 @@
 
 
 
-<!-- .
+<!-- CONTACT
 -->
+</hr>
+
 ### Contact
+
 </br>
 
 > [!IMPORTANT]  
