@@ -2,7 +2,7 @@
 <h1 align=center>Security Project Portfolio</h1>
 
 <!-- ANIMATED TYPING -->
-<p align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=71717a&width=435&lines=Hello%2C+I'm+Noah+Grayson;Security+Engineer" alt="Security Engineer"/>
 </p>
 
@@ -182,7 +182,7 @@
 
 <hr>
 <!-- REACTIVE SECURITY -->
-<br><h3 align=center><b>REACTIVE SECURITY</b></h3>
+<br><h3 align=center><b>REACTIVE SECURITY</b></h3><br>
 
 <!-- IDENTITY AND ACCESS -->
 ### Vulnerability Management
@@ -201,9 +201,9 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a>
-*test test test*
+*Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a>
-*test test test*
+*Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
 <!-- ANIMATED BOTTOM BANNER -->
