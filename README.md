@@ -2,7 +2,7 @@
 <h1 align=center>Security Project Portfolio</h1>
 
 <!-- ANIMATED TYPING -->
-<p align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align=>
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=71717a&width=435&lines=Hello%2C+I'm+Noah+Grayson;Security+Engineer" alt="Security Engineer"/>
 </p>
 
@@ -26,7 +26,7 @@
 
 <!-- AD CD -->
 ### Active Defense & Cyber Deception
-- <a href="">**Precision Threat Detection with Canaries, Honeyports, Honeynets, & Honeyusers**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
 *test test test*
 <br>
 
@@ -39,6 +39,8 @@
 <!-- CYBER TARGETING -->
 ### Cyber Targeting & Intelligence
 - <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional Open-Source Intelligence Investigation & Report**</a>
+*test test test*
+- <a href="">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
 *test test test*
 <br>
 
@@ -56,7 +58,7 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
-- <a href="">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
 *test test test*
@@ -94,13 +96,13 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a>
 *test test test*
-- <a href="">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a>
 *test test test*
 <br>
 
 <!-- IDENTITY AND ACCESS -->
 ### Identity & Access Security
-- <a href="">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a>
 *test test test*
@@ -140,7 +142,7 @@
 ### Data Security, AISecOps, & MLSecOps
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
-- <a href="">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a>
 *test test test*
@@ -154,7 +156,7 @@
 ### Security Architecture & Design
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
 *test test test*
-- <a href="">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a>
 *test test test*
@@ -168,7 +170,7 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
-- <a href="">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a>
 *test test test*
