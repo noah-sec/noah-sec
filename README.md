@@ -24,24 +24,24 @@
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
-<!-- AD CD -->
+<!-- CYBER DECEPTION -->
 ### Active Defense & Cyber Deception
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*test test test*
+*Researched documentation and deployed various types of honeypot and deception tools into an existing IT infrastructure.*
 <br>
 
 <!-- SECURITY TESTING -->
 ### Security Testing
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a>
-*test test test* 
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate enumeration, exploitation, privilege escalation, and post-exploitation of AD DS.* 
 <br>
 
 <!-- CYBER TARGETING -->
 ### Cyber Targeting & Intelligence
 - <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional Open-Source Intelligence Investigation & Report**</a>
 *test test test*
-- <a href="">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
+*Researched documentation and deployed various types of honeypot and deception tools into an existing IT infrastructure.*
 <br>
 
 <!-- SECURITY TESTING -->
@@ -69,7 +69,7 @@
 <br><h3 align=center><b>SECURE BY DESIGN</b></h3><br>
 
 <!-- INFRA AND DEVOPS -->
-### Infrastructure & Systems Security
+### Systems & DevOps Security
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a>
@@ -107,7 +107,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a>
-*test test test*
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate enumeration, exploitation, privilege escalation, and post-exploitation of AD DS.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
@@ -165,7 +165,7 @@
 <br>
 
 <!-- DEVSECOPS -->
-### Security Development, Security Automation, & DevSecOps
+### Security Development & Security Automation
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
@@ -223,4 +223,11 @@
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
 
-
+<div align=center>
+  <a href="https://x.com/_noah_sec">
+    <img width="22" src="https://cdn.simpleicons.org/x/32" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/noahsec/">
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
+  </a>
+</div>
