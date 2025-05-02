@@ -27,27 +27,27 @@
 <!-- CYBER DECEPTION -->
 ### Active Defense & Cyber Deception
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*Researched documentation and deployed various types of honeypot and deception tools into an existing IT infrastructure.*
+*Researched documentation and deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files.*
 <br>
 
 <!-- SECURITY TESTING -->
 ### Security Testing
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a>
-*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate enumeration, exploitation, privilege escalation, and post-exploitation of AD DS.* 
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks.* 
 <br>
 
 <!-- CYBER TARGETING -->
 ### Cyber Targeting & Intelligence
-- <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Professional Open-Source Intelligence Investigation & Report**</a>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a>
+*Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, reverse image search techniques, geolocation, and OSINT CLI tools.*
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*Researched documentation and deployed various types of honeypot and deception tools into an existing IT infrastructure.*
+*Researched documentation and deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files.*
 <br>
 
 <!-- SECURITY TESTING -->
 ### Cyber Psychology & Social Engineering
-- <a href="https://github.com/noah-sec/projects/blob/main/osint-social.md">**Sock Puppets, Phishing, & Social Media OSINT**</a>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media OSINT**</a>
+*Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, <br>reverse image search techniques, geolocation, and OSINT CLI tools.*
 <br>
 
 <!-- SECURITY TESTING -->
@@ -97,7 +97,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a>
-*test test test*
+*Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 <br>
 
 <!-- IDENTITY AND ACCESS -->
@@ -222,12 +222,3 @@
 <!-- . -->
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
-
-<div align=center>
-  <a href="https://x.com/_noah_sec">
-    <img width="22" src="https://cdn.simpleicons.org/x/32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/noahsec/">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
-  </a>
-</div>
