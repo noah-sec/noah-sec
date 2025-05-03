@@ -8,7 +8,7 @@
 
 <!-- INTRODUCTION -->
 <p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.</p>
-<p align=center><i>Some projects are categorized more than once to reflect their cross-domain emphasis.</i></p><br>
+<p align=center><i><b>Some projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p><br>
 
 <!-- ANIMATED TOP BANNER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
@@ -25,29 +25,33 @@
 <br>
 
 <!-- CYBER DECEPTION -->
-### Active Defense & Cyber Deception
+### Cyber Deception & Active Defense
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*Researched documentation and deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files.*
+*Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
 <!-- SECURITY TESTING -->
 ### Security Testing
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a>
-*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks.* 
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.* 
 <br>
 
 <!-- CYBER TARGETING -->
-### Cyber Targeting & Intelligence
+### Cyber Targeting, Threat Intelligence, & Open-Source Intelligence
 - <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a>
 *Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, reverse image search techniques, geolocation, and OSINT CLI tools.*
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*Researched documentation and deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files.*
+*Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
 <!-- SECURITY TESTING -->
-### Cyber Psychology & Social Engineering
+### Cyber Psychology, Cyber Influence, & Social Engineering
 - <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media OSINT**</a>
-*Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, <br>reverse image search techniques, geolocation, and OSINT CLI tools.*
+*Social engineering operations informed by open-source intelligence investigation and analysis to support a security assessment. Used sock puppet social media profiles, phishing and whaling techniques, and social engineering to support physical intrusion.*
+- <a href="https://github.com/noah-sec/projects/blob/main/influence.md">**Cyber Influence in Media and Information Sources**</a>
+*Media artifacts were analyzed for factual veracity, biases, and political spin. Analyzed the global political landscape of nation-state and APT information operations. Used open-source journalism and investigation methods to understand objectives of specific contemporary cyber influence campaigns.*
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Cyber Psychology Effects with Deceptive Assets, Services, & Users**</a>
+*Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
 <!-- SECURITY TESTING -->
@@ -56,6 +60,8 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
 *test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
@@ -106,8 +112,8 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Manual Penetration Testing**</a>
-*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate enumeration, exploitation, privilege escalation, and post-exploitation of AD DS.*
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+*Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
