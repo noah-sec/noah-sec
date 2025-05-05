@@ -21,63 +21,63 @@
 <!-- THREAT HUNTING -->
 <h3><b>Threat Hunting:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a><br>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a><br>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
 <!-- SECURITY TESTING -->
 <h3><b>Security Testing, Assessment, & Auditing:</b></h3>
     
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.* 
 <br>
 
 <!-- CYBER TARGETING -->
 <h3><b>Cyber Targeting, Threat Intelligence, & Open-Source Intelligence:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a><br>
 *Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, reverse image search techniques, geolocation, and OSINT CLI tools.*
-- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a><br>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
 <!-- SECURITY TESTING -->
 <h3><b>Cyber Psychology, Cyber Influence, & Social Engineering:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media OSINT**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media Operations**</a><br>
 *Social engineering operations informed by open-source intelligence investigation and analysis to support a security assessment. Used sock puppet social media profiles, phishing and whaling techniques, and social engineering to support physical intrusion.*
-- <a href="https://github.com/noah-sec/projects/blob/main/influence.md">**Cyber Influence in Media & Information Sources**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/influence.md">**Cyber Influence in Media & Information Sources**</a><br>
 *Media artifacts were analyzed for factual veracity, biases, and political spin. Analyzed the global political landscape of nation-state and APT information operations. Used open-source journalism and investigation methods to understand objectives of specific contemporary cyber influence campaigns.*
-- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Cyber Psychology Effects with Deceptive Assets, Services, & Users**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Cyber Psychology Effects with Deceptive Assets, Services, & Users**</a><br>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
 <!-- ACTIVE DEFENSE -->
 <h3><b>Cyber Deception, Active Defense, & Offensive Countermeasures:</b></h3>
     
-- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a><br>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
-- <a href="https://github.com/noah-sec/projects/blob/main/counter.md">**Active Defense & Offensive Countermeasures Deployment**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/counter.md">**Active Defense & Offensive Countermeasures Deployment**</a><br>
 *Deployed active defense traps into an existing IT infrastructure to disrupt and disable common enumeration techniques like web subdirectory scanning and network port scanning, and legal offensive countermeasures to trace the location of a criminal attacker even through complicated proxying (like Tor) using HoneyBadger.*
 <br>
 
 <!-- SECURITY TESTING -->
 <h3><b>Offensive Cyber Operations:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a><br>
+*Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.*
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
-- <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
+*Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems.*
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
+*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
+- <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a><br>
+*Developed a communications, accounts, and devices strategy for a high risk scenario. Used privacy and anonymity techniques around SMS messaging, email messaging, account privacy, payment and transaction privacy, encrypted hidden partitions using VeraCrypt, and browser anonymity.*
 <br>
 
 <hr>
@@ -87,134 +87,134 @@
 <!-- INFRA AND DEVOPS -->
 <h3><b>Endpoint Security & DevSecOps:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
 *test test test*
 <br>
 
 <!-- NETWORK AND WEB -->
 <h3><b>Network & Web Security:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment & Threat Consultation**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment & Threat Consultation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a><br>
 *Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 <br>
 
 <!-- IDENTITY AND ACCESS -->
 <h3><b>Identity & Access Security:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
-- <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a><br>
 *test test test*
 <br>
 
 <!-- MULTI CLOUD -->
 <h3><b>Hybrid Multi-Cloud Security:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads using Azure Networking**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads using Azure Networking**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 *test test test*
 <br>
 
 <!-- DATA AND ML -->
 <h3><b>Data Security, AISecOps, & MLSecOps:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
+*Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems. Used the MITRE ATT&CK framework and the Lockheed Martin Cyber Kill Chain.*
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
+*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 *test test test*
 <br>
 
 <!-- ARCHITECTURE -->
 <h3><b>Security Architecture, Design, & Philosophy:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a><br>
 *test test test*
 <br>
 
 <!-- GRC -->
 <h3><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 *test test test*
 <br>
 
 <!-- DEVSECOPS -->
 <h3><b>Security Development & Automation:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
+*Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
+*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
+- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Automated Remediation 1**</a>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Automated Remediation 2**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
 *test test test*
 <br>
 
@@ -225,24 +225,24 @@
 <!-- IDENTITY AND ACCESS -->
 <h3><b>Vulnerability Management:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Automated Remediation 1**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan & Automated Remediation 1**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan and Automated Remediation 2**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan & Automated Remediation 2**</a><br>
 *test test test*
 <br>
 
 <!-- IDENTITY AND ACCESS -->
 <h3><b>Security Operations, SIEM Engineering, & Detection Engineering:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a><br>
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a><br>
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
