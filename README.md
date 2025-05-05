@@ -149,9 +149,9 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
 *Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
-*test test test*
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
-*test test test*
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.*
 <br>
