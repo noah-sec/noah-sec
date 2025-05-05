@@ -28,6 +28,8 @@
 ### Cyber Deception & Active Defense
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Active Defense and Offensive Countermeasures**</a>
+**
 <br>
 
 <!-- SECURITY TESTING -->
@@ -57,14 +59,14 @@
 <!-- SECURITY TESTING -->
 ### Offensive Cyber Operations
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
-*test test test*
+*Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a>
 *test test test*
@@ -148,7 +150,7 @@
 ### Data Security, AISecOps, & MLSecOps
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Web Application for Offensive Security Operations**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a>
 *test test test*
@@ -173,6 +175,8 @@
 <!-- DEVSECOPS -->
 ### Security Development & Security Automation
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
+*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
