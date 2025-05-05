@@ -162,7 +162,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Initial Access, & Enumeration**</a><br>
 *Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
-*test test test*
+*Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
@@ -262,7 +262,7 @@
 <h3 id="siem-ops"><b>Security Operations, SIEM Engineering, & Detection Engineering:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
-*test test test*
+*Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a><br>
