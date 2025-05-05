@@ -88,17 +88,17 @@
 <h3><b>Endpoint Security & DevSecOps:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
-*test test test*
+*Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a><br>
-*test test test*
+*Deployed server infrastructure for remotely streaming desktop, browser, and email environments to a client web browser. These environments are containerized for isolation and security, and are wiped completely after each session.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
-*test test test*
+*Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
-*test test test*
+*Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
-*test test test*
+*Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.*
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
-*test test test*
+*Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied best practices in privacy for turning off telemetry in Windows 10.*
 <br>
 
 <!-- NETWORK AND WEB -->
