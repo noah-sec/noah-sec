@@ -96,7 +96,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.*
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
-*Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied best practices in privacy for turning off telemetry in Windows 10.*
+*Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied privacy best practices for turning off telemetry in Windows 10.*
 <br>
 
 <!-- NETWORK AND WEB -->
