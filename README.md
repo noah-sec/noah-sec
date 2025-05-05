@@ -28,7 +28,7 @@
 <br>
 
 <!-- SECURITY TESTING -->
-<h3><b>Security Testing:</b></h3>
+<h3><b>Security Testing, Assessment, & Auditing:</b></h3>
     
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.* 
