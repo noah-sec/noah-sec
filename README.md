@@ -218,8 +218,8 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 *Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
-- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a><br>
-*test test test*
+<!-- - <a href="https://github.com/noah-sec/projects/blob/main/philosophy.md">**Security Philosophy & Guiding Principles**</a><br>
+*test test test* -->
 <br>
 
 <!-- DEVSECOPS -->
@@ -236,7 +236,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
 *Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
-*test test test*
+*Toolbox for Python scripts for information security. Includes cryptography, scripts from courses, scripts for automation, and scripts for penetration testing. *
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
