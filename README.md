@@ -90,7 +90,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a><br>
-*Deployed server infrastructure for remotely streaming desktop, browser, and email environments to a client web browser. These environments are containerized for isolation and security, and are wiped completely after each session.*
+*Deployed server infrastructure for remotely streaming desktop, browser, and email environments to a client web browser. These Kasm Workspace environments are containerized for isolation and security, and are wiped completely after each session.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
@@ -102,10 +102,10 @@
 <!-- NETWORK AND WEB -->
 <h3><b>Network & Web Security:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-Driven, Application-Aware, & Policy-Defined Resource Access**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a><br>
-*test test test*
+*Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.*
 - <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment & Threat Consultation**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
@@ -121,7 +121,7 @@
 
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-Enforced SSH, & Remote Administration for Privileged Access Management**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
@@ -144,10 +144,10 @@
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
 *Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads using Azure Networking**</a><br>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a><br>
+*Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
-*test test test*
+*Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
@@ -164,11 +164,11 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
 *Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
-*test test test*
+*Created a custom sensitive information type, created and published a sensitivity label, created and assigned an auto-labeling policy, and created a data loss prevention (DLP) policy.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
-*test test test*
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
-*test test test*
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
 *Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 <br>
@@ -176,10 +176,10 @@
 <!-- ARCHITECTURE -->
 <h3><b>Security Architecture, Design, & Philosophy:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-Driven, Application-Aware, & Policy-Defined Resource Access**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a><br>
-*test test test*
+*Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
@@ -192,9 +192,9 @@
 <h3><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
-*test test test*
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
-*test test test*
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
 <br>
 
 <!-- DEVSECOPS -->
@@ -239,7 +239,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
-*test test test*
+*Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a><br>
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a><br>
