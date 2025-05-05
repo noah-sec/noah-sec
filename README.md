@@ -174,7 +174,7 @@
 <br>
 
 <!-- ARCHITECTURE -->
-<h3><b>Security Architecture & Design:</b></h3>
+<h3><b>Security Architecture, Design, & Philosophy:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
 *test test test*
@@ -184,10 +184,21 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a>
 *test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a>
+*test test test*
+<br>
+
+<!-- GRC -->
+<h3><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a>
+*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a>
+*test test test*
 <br>
 
 <!-- DEVSECOPS -->
-<h3><b>Security Development & Security Automation:</b></h3>
+<h3><b>Security Development & Automation:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
 *test test test*
