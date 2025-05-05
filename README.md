@@ -15,11 +15,17 @@
 
 <hr><br>
 
+<h3>Contents:</h3>
+<p>PROACTIVE SECURITY<br>
+<a href="#threat-hunting">Threat Hunting</a><br>
+</p>
+<hr><br>
+
 <!-- PROACTIVE SECURITY -->
 <h3 align=center><b>PROACTIVE SECURITY</b></h3><br>
 
 <!-- THREAT HUNTING -->
-<h3><b>Threat Hunting:</b></h3>
+<h3 id="threat-hunting"><b>Threat Hunting:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a><br>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
@@ -252,7 +258,10 @@
 
 <!-- CONTACT -->
 <hr><br>
-<p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. Please feel free to reach out for more details about a specific project!</b></i></p><br>
+<p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. 
+<br>Please feel free to reach out for more details about a specific project!</b></i></p><br>
+
+<h3><b>Contact:</b></h3>
 
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">Visit my professional website</a>
