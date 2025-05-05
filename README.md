@@ -198,6 +198,15 @@
 *Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 <br>
 
+<!-- GRC -->
+<h3 id="grc"><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
+<br>
+
 <!-- ARCHITECTURE -->
 <h3 id="design"><b>Security Architecture, Design, & Philosophy:</b></h3>
 
@@ -211,15 +220,6 @@
 *Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a><br>
 *test test test*
-<br>
-
-<!-- GRC -->
-<h3 id="grc"><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
-
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
-*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
-*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
 <br>
 
 <!-- DEVSECOPS -->
