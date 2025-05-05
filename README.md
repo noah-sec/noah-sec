@@ -19,29 +19,24 @@
 <h3 align=center><b>PROACTIVE SECURITY</b></h3><br>
 
 <!-- THREAT HUNTING -->
-### Threat Hunting
+<h3><b>Threat Hunting:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
-<!-- CYBER DECEPTION -->
-### Cyber Deception & Active Defense
-- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
-*Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
-- <a href="https://github.com/noah-sec/projects/blob/main/counter.md">**Active Defense and Offensive Countermeasures**</a>
-*Deployed offensive countermeasures into an existing IT infrastructure, going beyond canaries for logging and alerting to actually disrupt common enumeration techniques like web subdirectory scanning and network port scanning, or to trace the location of the adversary even through complicated proxying (like Tor).*
-<br>
-
 <!-- SECURITY TESTING -->
-### Security Testing
+<h3><b>Security Testing:</b></h3>
+    
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.* 
 <br>
 
 <!-- CYBER TARGETING -->
-### Cyber Targeting, Threat Intelligence, & Open-Source Intelligence
+<h3><b>Cyber Targeting, Threat Intelligence, & Open-Source Intelligence:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a>
 *Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, reverse image search techniques, geolocation, and OSINT CLI tools.*
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
@@ -49,17 +44,28 @@
 <br>
 
 <!-- SECURITY TESTING -->
-### Cyber Psychology, Cyber Influence, & Social Engineering
+<h3><b>Cyber Psychology, Cyber Influence, & Social Engineering:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media OSINT**</a>
 *Social engineering operations informed by open-source intelligence investigation and analysis to support a security assessment. Used sock puppet social media profiles, phishing and whaling techniques, and social engineering to support physical intrusion.*
-- <a href="https://github.com/noah-sec/projects/blob/main/influence.md">**Cyber Influence in Media and Information Sources**</a>
+- <a href="https://github.com/noah-sec/projects/blob/main/influence.md">**Cyber Influence in Media & Information Sources**</a>
 *Media artifacts were analyzed for factual veracity, biases, and political spin. Analyzed the global political landscape of nation-state and APT information operations. Used open-source journalism and investigation methods to understand objectives of specific contemporary cyber influence campaigns.*
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Cyber Psychology Effects with Deceptive Assets, Services, & Users**</a>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
+<!-- ACTIVE DEFENSE -->
+<h3><b>Cyber Deception, Active Defense, & Offensive Countermeasures:</b></h3>
+    
+- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
+*Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
+- <a href="https://github.com/noah-sec/projects/blob/main/counter.md">**Active Defense & Offensive Countermeasures Deployment**</a>
+*Deployed active defense traps into an existing IT infrastructure to disrupt and disable common enumeration techniques like web subdirectory scanning and network port scanning, and legal offensive countermeasures to trace the location of a criminal attacker even through complicated proxying (like Tor) using HoneyBadger.*
+<br>
+
 <!-- SECURITY TESTING -->
-### Offensive Cyber Operations
+<h3><b>Offensive Cyber Operations:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
@@ -79,7 +85,8 @@
 <br><h3 align=center><b>SECURE BY DESIGN</b></h3><br>
 
 <!-- INFRA AND DEVOPS -->
-### Systems & DevOps Security
+<h3><b>Endpoint Security & DevSecOps:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a>
@@ -95,7 +102,8 @@
 <br>
 
 <!-- NETWORK AND WEB -->
-### Network & Web Security
+<h3><b>Network & Web Security:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a>
@@ -111,7 +119,8 @@
 <br>
 
 <!-- IDENTITY AND ACCESS -->
-### Identity & Access Security
+<h3><b>Identity & Access Security:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-enforced SSH, & Remote Administration for Privileged Access Management**</a>
@@ -125,7 +134,8 @@
 <br>
 
 <!-- MULTI CLOUD -->
-### Hybrid Multi-Cloud Security
+<h3><b>Hybrid Multi-Cloud Security:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a>
@@ -149,7 +159,8 @@
 <br>
 
 <!-- DATA AND ML -->
-### Data Security, AISecOps, & MLSecOps
+<h3><b>Data Security, AISecOps, & MLSecOps:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
@@ -163,7 +174,8 @@
 <br>
 
 <!-- ARCHITECTURE -->
-### Security Architecture & Design
+<h3><b>Security Architecture & Design:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-driven, Application-aware, & Policy-defined Resource Access**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a>
@@ -175,7 +187,8 @@
 <br>
 
 <!-- DEVSECOPS -->
-### Security Development & Security Automation
+<h3><b>Security Development & Security Automation:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a>
@@ -199,7 +212,8 @@
 <br><h3 align=center><b>REACTIVE SECURITY</b></h3><br>
 
 <!-- IDENTITY AND ACCESS -->
-### Vulnerability Management
+<h3><b>Vulnerability Management:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan and Automated Remediation 1**</a>
@@ -209,7 +223,8 @@
 <br>
 
 <!-- IDENTITY AND ACCESS -->
-### Security Operations, SIEM Engineering, & Detection Engineering
+<h3><b>Security Operations, SIEM Engineering, & Detection Engineering:</b></h3>
+
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a>
