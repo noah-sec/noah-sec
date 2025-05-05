@@ -64,7 +64,7 @@
 <br>
 
 <!-- SECURITY TESTING -->
-<h3><b>Offensive Cyber Operations:</b></h3>
+<h3><b>Offensive Cyber Operations & Red Teaming:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
