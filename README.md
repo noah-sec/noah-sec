@@ -1,3 +1,6 @@
+<!-- ANIMATED TOP BANNER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
+
 <!-- TITLE -->
 <h1 align=center>Security Project Portfolio</h1>
 
@@ -8,10 +11,9 @@
 
 <!-- INTRODUCTION -->
 <p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.</p>
-<p align=center><i><b>Some projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p><br>
+<p align=center><i><b>Some projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
 
-<!-- ANIMATED TOP BANNER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
+<hr><br>
 
 <!-- PROACTIVE SECURITY -->
 <h3 align=center><b>PROACTIVE SECURITY</b></h3><br>
@@ -28,8 +30,8 @@
 ### Cyber Deception & Active Defense
 - <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Real-Time Threat Intelligence with Deceptive Assets, Services, & Users**</a>
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
-- <a href="https://github.com/noah-sec/projects/blob/main/deception.md">**Active Defense and Offensive Countermeasures**</a>
-**
+- <a href="https://github.com/noah-sec/projects/blob/main/counter.md">**Active Defense and Offensive Countermeasures**</a>
+*Deployed offensive countermeasures into an existing IT infrastructure, going beyond canaries for logging and alerting to actually disrupt common enumeration techniques like web subdirectory scanning and network port scanning, or to trace the location of the adversary even through complicated proxying (like Tor).*
 <br>
 
 <!-- SECURITY TESTING -->
@@ -218,11 +220,10 @@
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 
-<!-- ANIMATED BOTTOM BANNER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
+
 
 <!-- CONTACT -->
-<br>
+<hr>
 
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">Visit my professional website</a>
@@ -232,3 +233,7 @@
 <!-- . -->
 [twitter]: https://x.com/___________
 [linkedin]: https://linkedin.com/in/noahsec/
+
+<!-- ANIMATED BOTTOM BANNER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=footer" alt="footer"/>
+
