@@ -236,7 +236,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
 *Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
-*Toolbox for Python scripts for information security. Includes cryptography, scripts from courses, scripts for automation, and scripts for penetration testing. *
+*Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
