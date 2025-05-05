@@ -43,7 +43,7 @@
 *Deployed various types of honeypots, canaries, and deception tools into an existing IT infrastructure, including honeypot services/ports, users, devices, and files. This deployment gathers real-time cyber threat intelligence. These security controls can dramatically affect the cyber psychology of threat actors.*
 <br>
 
-<!-- SECURITY TESTING -->
+<!-- INFLUENCE -->
 <h3><b>Cyber Psychology, Cyber Influence, & Social Engineering:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media Operations**</a><br>
@@ -63,7 +63,7 @@
 *Deployed active defense traps into an existing IT infrastructure to disrupt and disable common enumeration techniques like web subdirectory scanning and network port scanning, and legal offensive countermeasures to trace the location of a criminal attacker even through complicated proxying (like Tor) using HoneyBadger.*
 <br>
 
-<!-- SECURITY TESTING -->
+<!-- OCO RED TEAM -->
 <h3><b>Offensive Cyber Operations & Red Teaming:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
@@ -84,8 +84,8 @@
 <!-- SECURE BY DESIGN -->
 <br><h3 align=center><b>SECURE BY DESIGN</b></h3><br>
 
-<!-- INFRA AND DEVOPS -->
-<h3><b>Endpoint Security & DevSecOps:</b></h3>
+<!-- SYSTEMS -->
+<h3><b>Endpoint & Workload Security:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
@@ -93,8 +93,6 @@
 *Deployed server infrastructure for remotely streaming desktop, browser, and email environments to a client web browser. These environments are containerized for isolation and security, and are wiped completely after each session.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
-*Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 *Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.*
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
@@ -128,7 +126,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a><br>
-*test test test*
+*Deployed and managed AD DS domain controllers, configured Active Directory topology, created and managed AD DS objects, created and configured Group Policy Objects (GPOs) in AD DS, and managed security in AD DS.*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a><br>
 *test test test*
 <br>
@@ -136,16 +134,16 @@
 <!-- MULTI CLOUD -->
 <h3><b>Hybrid Multi-Cloud Security:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a><br>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Initial Access, & Enumeration**</a><br>
+*Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
-*test test test*
+*Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
-*test test test*
+*Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
-*test test test*
+*Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads using Azure Networking**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-dlp.md">**Implement Information Protection & Data Loss Prevention in Microsoft Purview**</a><br>
@@ -155,7 +153,7 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
-*test test test*
+*Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.*
 <br>
 
 <!-- DATA AND ML -->
@@ -171,6 +169,8 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 *test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-storage.md">**Secure Storage for Azure Files & Azure Blob Storage**</a><br>
+*Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 <br>
 
 <!-- ARCHITECTURE -->
@@ -198,14 +198,14 @@
 <br>
 
 <!-- DEVSECOPS -->
-<h3><b>Security Development & Automation:</b></h3>
+<h3><b>Security Development, Security Automation, & DevSecOps:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
 *Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
-*test test test*
+*Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
