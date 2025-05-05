@@ -103,32 +103,34 @@
 <h3><b>Network & Web Security:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-Driven, Application-Aware, & Policy-Defined Resource Access**</a><br>
-*test test test*
+*Designed and deployed a software-defined mesh overlay network on top of the existing physical network plane. Used Tailscale to control routing between devices based on continuous identity authentication, connecting device posture, and application-aware policies. This produced a flat network across multiple LANs with strict access controls between users, devices, and services.*
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
+*Access control policy for the existing overlay mesh network was configured through code. The document was managed with GitOps and Terraform, each being different options to enable remote configuration of the policy file with automatic deployment. Policies allow users and groups of users to authenticate to explicitly allowed resources, with default denied access.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-network.md">**Configure Secure Access to Cloud Workloads with Azure Networking**</a><br>
 *Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment & Threat Consultation**</a><br>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
-*test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
-*test test test*
+*Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a><br>
 *Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
+- <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security Assessment & Threat Consultation**</a><br>
+*Performed a security assessment of a web developer's personal website and a threat consultation of their digital footprint. This was a group effort from a four-person security consultant team.*
+- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
+*Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
 <br>
 
 <!-- IDENTITY AND ACCESS -->
 <h3><b>Identity & Access Security:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
-*test test test*
+*Access control policy for the existing overlay mesh network was configured through code. The document was managed with GitOps and Terraform, each being different options to enable remote configuration of the policy file with automatic deployment. Policies allow users and groups of users to authenticate to explicitly allowed resources, with default denied access.*
 - <a href="https://github.com/noah-sec/projects/blob/main/pam-passkeys.md">**Passkeys, Identity-Enforced SSH, & Remote Administration for Privileged Access Management**</a><br>
-*test test test*
+*Privileged access to critical assets was secured with multiple technical controls. Used an authentication layer to validate SSH connections. Used passkeys instead of passwords when possible, and on the primary authentication layer. Remote administration of devices and servers was also secured with the authentication layer. Used passive session recording for RDP, VNC, and SSH remote connections for compliance and monitoring.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
 *Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-admin.md">**Active Directory Domain Services Administration**</a><br>
 *Deployed and managed AD DS domain controllers, configured Active Directory topology, created and managed AD DS objects, created and configured Group Policy Objects (GPOs) in AD DS, and managed security in AD DS.*
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a><br>
-*test test test*
+*Developed a communications, accounts, and devices strategy for a high risk scenario. Used privacy and anonymity techniques around SMS messaging, email messaging, account privacy, payment and transaction privacy, encrypted hidden partitions using VeraCrypt, and browser anonymity.*
 <br>
 
 <!-- MULTI CLOUD -->
@@ -177,13 +179,13 @@
 <h3><b>Security Architecture, Design, & Philosophy:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-Driven, Application-Aware, & Policy-Defined Resource Access**</a><br>
-*test test test*
+*Designed and deployed a software-defined mesh overlay network on top of the existing physical network plane. Used Tailscale to control routing between devices based on continuous identity authentication, connecting device posture, and application-aware policies. This produced a flat network across multiple LANs with strict access controls between users, devices, and services.*
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a><br>
 *Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
-*test test test*
+*Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Security Philosophy & Guiding Principles**</a><br>
 *test test test*
 <br>
@@ -207,9 +209,9 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
-*test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Development & Design with GitOps & Cloudflare Web Security**</a><br>
-*test test test*
+*Access control policy for the existing overlay mesh network was configured through code. The document was managed with GitOps and Terraform, each being different options to enable remote configuration of the policy file with automatic deployment. Policies allow users and groups of users to authenticate to explicitly allowed resources, with default denied access.*
+- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
+*Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
@@ -249,7 +251,8 @@
 
 
 <!-- CONTACT -->
-<hr>
+<hr><br>
+<p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. Please feel free to reach out for more details about a specific project!</b></i></p><br>
 
 > [!IMPORTANT]  
 > <a href="https://noahsec.pro">Visit my professional website</a>
