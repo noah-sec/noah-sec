@@ -239,7 +239,7 @@
 <!-- CYBER RESILIENCY -->
 <h3 id="resilience"><b>Cyber Resilience & Business Continuity:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/resilience.md">**Onsite & Offsite Backup & Restore for Enterprise Cyber Resiliency of Data & Workloads**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/resilience.md">**Onsite & Offsite Backup & Restore for Enterprise Cyber Resilience of Data & Workloads**</a><br>
 *testestestest*
 <br>
 
