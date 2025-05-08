@@ -234,14 +234,12 @@
 *Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 *Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
+<br>
 
-<!-- GRC -->
-<h3 id="grc"><b>Security Governance, Risk, & Compliance (GRC):</b></h3>
-
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
-*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
-*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
+<!-- CYBER RESILIENCY -->
+<h3 id="resilience"><b>Cyber Resilience & Business Continuity:</b></h3>
+- <a href="https://github.com/noah-sec/projects/blob/main/resilience.md">**Onsite & Offsite Backup & Restore for Enterprise Cyber Resiliency of Data & Workloads**</a><br>
+*testestestest*
 <br>
 
 <!-- ARCHITECTURE -->
@@ -255,7 +253,15 @@
 *test test test*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 *Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
+<br>
 
+<!-- GRC -->
+<h3 id="grc"><b>Security Governance, Risk, & Compliance (GRC):</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
+*Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
+*Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.*
 <br>
 
 <!-- LEADERSHIP -->
