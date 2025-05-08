@@ -18,8 +18,8 @@
 <h3>Contents:</h3>
 <p>PROACTIVE SECURITY<br>
 <a href="#hunting">Threat Hunting</a><br>
-<a href="#testing">Security Testing, Assessment, & Auditing</a><br>
-<a href="#intel">Cyber Targeting, Threat Intelligence, & Open-Source Intelligence</a><br>
+<a href="#testing">Security Testing, Security Assessment, & Security Auditing</a><br>
+<a href="#intel">Cyber Targeting, Cyber Threat Intelligence, & Open-Source Intelligence</a><br>
 <a href="#influence">Cyber Psychology, Cyber Influence, & Social Engineering</a><br>
 <a href="#deception">Cyber Deception, Active Defense, & Offensive Countermeasures</a><br>
 <a href="#oco-red">Offensive Cyber Operations & Red Teaming</a><br>
@@ -29,17 +29,21 @@
 <a href="#identity">Identity & Access Security</a><br>
 <a href="#multi-cloud">Hybrid Multi-Cloud Security</a><br>
 <a href="#data-aiml">Data Security, AISecOps, & MLSecOps</a><br>
-<a href="#grc">Security Policy, Governance, Risk, & Compliance</a><br>
+<a href="#grc">Security Governance, Risk, & Compliance</a><br>
 <a href="#design">Security Architecture, Design, & Philosophy</a><br>
-<a href="#devsecops">Security Development, Security Automation, & DevSecOps</a><br>
+<a href="#devsecops">Security Development & Automation, & DevSecOps</a><br>
 <br>REACTIVE SECURITY<br>
 <a href="#vuln-mgmt">Vulnerability Management</a><br>
-<a href="#siem-ops">Security Operations, SIEM Engineering, & Detection Engineering</a><br>
+<a href="#siem">Security Operations & Analysis, Threat Detection & Response, & Incident Investigation</a><br>
 </p>
 <hr><br>
 
 <!-- PROACTIVE SECURITY -->
 <h3 align=center><b>PROACTIVE SECURITY</b></h3><br>
+
+<!-- THREAT DETECTION ENGINEERING 
+<h3 id="hunting"><b>Threat Detection Engineering:</b></h3>
+-->
 
 <!-- THREAT HUNTING -->
 <h3 id="hunting"><b>Threat Hunting:</b></h3>
@@ -58,7 +62,7 @@
 <br>
 
 <!-- CYBER TARGETING -->
-<h3 id="intel"><b>Cyber Targeting, Threat Intelligence, & Open-Source Intelligence:</b></h3>
+<h3 id="intel"><b>Cyber Targeting & Threat Intelligence, & Open-Source Intelligence:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/osint.md">**Professional Open-Source Intelligence Investigation & Report**</a><br>
 *Detailed investigation and report on critical personnel, executives, and key public and corporate facilities. OSINT for social media, emails, account login, phone numbers, data breaches, and website information. Used advanced search engine techniques, reverse image search techniques, geolocation, and OSINT CLI tools.*
@@ -67,7 +71,7 @@
 <br>
 
 <!-- INFLUENCE -->
-<h3 id="influence"><b>Cyber Psychology, Cyber Influence, & Social Engineering:</b></h3>
+<h3 id="influence"><b>Cyber Psychology & Influence, & Social Engineering:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/social.md">**Sock Puppets, Phishing, & Social Media Operations**</a><br>
 *Social engineering operations informed by open-source intelligence investigation and analysis to support a security assessment. Used sock puppet social media profiles, phishing and whaling techniques, and social engineering to support physical intrusion.*
@@ -157,7 +161,7 @@
 <br>
 
 <!-- MULTI CLOUD -->
-<h3 id="multi-cloud"><b>Hybrid Multi-Cloud Security:</b></h3>
+<h3 id="multi-cloud"><b>Hybrid Multi-Cloud & SaaS Security:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Initial Access, & Enumeration**</a><br>
 *Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.*
@@ -198,8 +202,37 @@
 *Created and configured a storage account, created and configured Blob Storage, created and configured Azure Files, configured encryption, and configured networking for storage.*
 <br>
 
+<!-- SIEM ENGINEERING -->
+<h3 id="siem"><b>Logging, Monitoring, & SIEM Engineering:</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
+*Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
+*Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
+
+<!-- DEVSECOPS -->
+<h3 id="devsecops"><b>Security Development & Automation, & DevSecOps:</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
+*Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
+- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
+*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
+- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
+*Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
+- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
+*Access control policy for the existing overlay mesh network was configured through code. The document was managed with GitOps and Terraform, each being different options to enable remote configuration of the policy file with automatic deployment. Policies allow users and groups of users to authenticate to explicitly allowed resources, with default denied access.*
+- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
+*Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
+- <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
+*Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.*
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
+*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
+*test test test*
+<br>
+
 <!-- GRC -->
-<h3 id="grc"><b>Security Policy, Governance, Risk, & Compliance:</b></h3>
+<h3 id="grc"><b>Security Governance, Risk, & Compliance:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-compliance.md">**Implement Retention, eDiscovery, & Communication Compliance in Microsoft Purview**</a><br>
 *Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.*
@@ -222,26 +255,20 @@
 *test test test* -->
 <br>
 
-<!-- DEVSECOPS -->
-<h3 id="devsecops"><b>Security Development, Security Automation, & DevSecOps:</b></h3>
+<!-- LEADERSHIP -->
+<h3 id="design"><b>Security Leadership, Management, & Policy:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
-*Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
-- <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
-*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
-- <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
-*Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
-- <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
-*Access control policy for the existing overlay mesh network was configured through code. The document was managed with GitOps and Terraform, each being different options to enable remote configuration of the policy file with automatic deployment. Policies allow users and groups of users to authenticate to explicitly allowed resources, with default denied access.*
-- <a href="https://github.com/noah-sec/projects/blob/main/web-dev-cloudflare.md">**Frontend Web Design & Development with GitOps & Cloudflare Web Security**</a><br>
-*Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.*
-- <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
-*Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
-*test test test*
+- <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
+*Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
 <br>
+
+<!-- EMERGING TECH 
+<h3 id="design"><b>Emerging Technologies & Security Forecasting:</b></h3>-->
+
+<!-- GLOBAL SECURITY 
+<h3 id="design"><b>Global & National Security:</b></h3>-->
 
 <hr>
 <!-- REACTIVE SECURITY -->
@@ -259,12 +286,10 @@
 <br>
 
 <!-- SECURITY OPERATIONS -->
-<h3 id="siem-ops"><b>Security Operations, SIEM Engineering, & Detection Engineering:</b></h3>
+<h3 id="sec-ops"><b>Security Operations & Analysis, Threat Detection & Response, & Incident Investigation:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
-*Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a><br>
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a><br>
