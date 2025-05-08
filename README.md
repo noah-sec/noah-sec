@@ -11,7 +11,7 @@
 
 <!-- INTRODUCTION -->
 <p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.</p>
-<p align=center><i><b>Some projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
+<p align=center><i><b>Many projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
 
 <hr>
 
@@ -110,6 +110,8 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/account-threat.md">**Secure & Private Accounts & Communications for High-Risk Operations**</a><br>
 *Developed a communications, accounts, and devices strategy for a high risk scenario. Used privacy and anonymity techniques around SMS messaging, email messaging, account privacy, payment and transaction privacy, encrypted hidden partitions using VeraCrypt, and browser anonymity.*
 <br>
+<br>
+<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
 
 <hr>
 <!-- SECURE BY DESIGN -->
@@ -275,6 +277,8 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
 *Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems.*
 <br>
+<br>
+<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
 
 <!-- EMERGING TECH 
 <h3 id="design"><b>Emerging Technologies & Security Forecasting:</b></h3>-->
@@ -312,11 +316,12 @@
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a><br>
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
-
-
+<br>
+<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
 
 <!-- CONTACT -->
 <hr><br>
+<p align=center><i><b>Many projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
 <p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. 
 <br>Please feel free to reach out for more details about a specific project!</b></i></p><br>
 
