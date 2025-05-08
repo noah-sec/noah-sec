@@ -111,7 +111,7 @@
 *Developed a communications, accounts, and devices strategy for a high risk scenario. Used privacy and anonymity techniques around SMS messaging, email messaging, account privacy, payment and transaction privacy, encrypted hidden partitions using VeraCrypt, and browser anonymity.*
 <br>
 <br>
-<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
+<div align=center><a href="#">Return to top of page</a></div>
 
 <hr>
 <!-- SECURE BY DESIGN -->
@@ -278,7 +278,7 @@
 *Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems.*
 <br>
 <br>
-<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
+<div align=center><a href="#">Return to top of page</a></div>
 
 <!-- EMERGING TECH 
 <h3 id="design"><b>Emerging Technologies & Security Forecasting:</b></h3>-->
@@ -317,7 +317,7 @@
 *Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
 <br>
 <br>
-<div align=center><a href="https://github.com/noah-sec">Return to top of page</a></div>
+<div align=center><a href="#">Return to top of page</a></div>
 
 <!-- CONTACT -->
 <hr><br>
