@@ -10,8 +10,9 @@
 </p>
 
 <!-- INTRODUCTION -->
-<p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.</p>
-<p align=center><i><b>Many projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
+<p align=center>The following selected projects are a demonstration of some of the primary skills I offer to organizations as a <b>security engineer</b>.<br>
+<a href="https://noahsec.pro">Visit my professional website</a> to see experience, certifications, degrees, and training.<br><br>
+<i><b>Many projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
 
 <hr>
 
@@ -327,13 +328,13 @@
 
 <h3 id="contact"><b>Contact:</b></h3>
 
-> [!IMPORTANT]  
-> <a href="https://noahsec.pro">Visit my professional website</a>
+<p><a href="https://noahsec.pro">Visit my professional website</a> to see experience, certifications, degrees, and training.</p>
+
 <!-- . -->
 [<img align="left" alt="f" width="22px" src="https://cdn.simpleicons.org/x/32" />][twitter]
 [<img align="left" alt="f" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
 <!-- . -->
-[twitter]: https://x.com/___________
+[twitter]: https://x.com/_noah_sec
 [linkedin]: https://linkedin.com/in/noahsec/
 
 <!-- ANIMATED BOTTOM BANNER -->
