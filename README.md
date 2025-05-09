@@ -248,7 +248,7 @@ SECURITY ENGINEERING<br>
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
-*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing operational data.*
+*Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing  data.*
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ts-grants.md">**Zero-Trust Access Control Policy Automation with GitOps & Infrastructure-as-Code**</a><br>
