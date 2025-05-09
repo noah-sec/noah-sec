@@ -35,10 +35,12 @@ SECURITY ENGINEERING<br>
 <a href="#data-ai-ml">Data Security, AISecOps, & MLSecOps</a><br>
 <a href="#devsecops">Security Development, Security Automation, & DevSecOps</a><br>
 <a href="#siem">Centralized Log Management & SIEM Engineering</a><br>
-<a href="#resilience">Cyber Resilience & Business Continuity</a><br>
+<a href="#resilience">Cyber Resilience & Business Continuity</a><br><br>
+SECURITY MANAGEMENT<br>
 <a href="#design">Security Architecture & Design</a><br>
 <a href="#grc">Security Governance, Risk, & Compliance (GRC)</a><br>
-<a href="#policy">Security Project Management & Policy</a></p>
+<a href="#policy">Security Project Management & Policy</a><br>
+<a href="#philosophy">Cyber Philosophy</a></p>
 <hr>
 
 <!-- SECURITY OPERATIONS -->
@@ -173,7 +175,7 @@ SECURITY ENGINEERING<br>
 *Created and configured virtual networks, configured network routing, created DNS zones and configured DNS settings, created and configured network security groups (NSGs), and created and configured Azure Firewall.*
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 *Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
-- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Deployment with Firewalls, Subnets, & VLANs**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls & Microsegmentation**</a><br>
 *Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 - <a href="https://github.com/noah-sec/projects/blob/main/web-threat.md">**Web Security & Threat Assessment**</a><br>
 *Performed a security assessment of a web developer's personal website and a threat consultation of their digital footprint. This was a group effort from a four-person security consultant team.*
@@ -280,14 +282,18 @@ SECURITY ENGINEERING<br>
 - <a href="https://github.com/noah-sec/projects/blob/main/resilience.md">**Onsite & Offsite Backup & Restore for Enterprise Cyber Resilience of Data & Workloads**</a><br>
 *testestestest*
 
+<br>
+<div align=center><a href="#">Return to top of page</a></div><br>
 <hr>
+<!-- SECURITY ENGINEERING -->
+<h3 align=center><b>SECURITY MANAGEMENT</b></h3><hr>
 
 <!-- ARCHITECTURE -->
 <h3 id="design"><b>Security Architecture & Design:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/tailscale.md">**Zero-Trust Fabric for Identity-Driven, Application-Aware, & Policy-Defined Resource Access**</a><br>
 *Designed and deployed a software-defined mesh overlay network on top of the existing physical network plane. Used Tailscale to control routing between devices based on continuous identity authentication, connecting device posture, and application-aware policies. This produced a flat network across multiple LANs with strict access controls between users, devices, and services.*
-- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls, Subnets, & VLANs**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls & Microsegmentation**</a><br>
 *Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.*
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
@@ -306,7 +312,7 @@ SECURITY ENGINEERING<br>
 
 <hr>
 
-<!-- LEADERSHIP -->
+<!-- POLICY -->
 <h3 id="policy"><b>Security Project Management & Policy:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
@@ -315,6 +321,12 @@ SECURITY ENGINEERING<br>
 *Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.*
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
 *Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems.*
+
+<!-- PHILOSOPHY -->
+<h3 id="philosophy"><b>Cyber Philosophy:</b></h3>
+
+- <a href="https://github.com/noah-sec/projects/blob/main/philosophy.md">**Security Philosophy & Guiding Principles**</a><br>
+*Developed core guiding principles for a successful security program - covering people, processes, and technologies. Explored the concept of cyber philosophy and how it can improve an organizations security posture.*
 
 <br>
 <div align=center><a href="#">Return to top of page</a></div><br>
@@ -325,10 +337,7 @@ SECURITY ENGINEERING<br>
 <!-- GLOBAL SECURITY 
 <h3 id="design"><b>Global & National Security:</b></h3>-->
 
-<!-- PHILOSOPHY 
-<h3 id="design"><b>Cyber Philosophy:</b></h3>-->
-<!-- - <a href="https://github.com/noah-sec/projects/blob/main/philosophy.md">**Security Philosophy & Guiding Principles**</a><br>
-*test test test* -->
+
 
 <!-- CONTACT -->
 <hr><br>
