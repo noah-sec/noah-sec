@@ -105,7 +105,7 @@ SECURITY MANAGEMENT<br>
 <hr>
 
 <!-- THREAT HUNTING -->
-<h3 id="hunting"><b>Threat Hunting:</b></h3>
+<h3 id="hunting"><b>Cyber Threat Hunting:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a><br>
 *Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.*
