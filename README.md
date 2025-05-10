@@ -33,17 +33,17 @@ SECURITY ENGINEERING<br>
 <a href="#endpoint">Endpoint & Workload Security</a><br>
 <a href="#net-web">Network & Web Security</a><br>
 <a href="#identity">Identity & Access Security</a><br>
-<a href="#identity">Email & Communications Security</a><br>
+<a href="#commsec">Email & Communications Security</a><br>
 <a href="#cloud-saas">Cloud & SaaS Security</a><br>
-<a href="#data-ai-ml">Data Security & Protection, Cyber Resilience, & Business Continuity</a><br>
+<a href="#resilience">Data Security & Protection, Cyber Resilience, & Business Continuity</a><br>
 <a href="#siem">Centralized Log Management & SIEM Engineering</a><br>
-<a href="#data-ai-ml">Pipeline & Workflow Security, DevSecOps, AISecOps, & MLSecOps</a><br>
-<a href="#devsecops">Application Security, Development, Scripting, & Automation</a><br><br>
+<a href="#devsecops">Pipeline & Workflow Security, DevSecOps, AISecOps, & MLSecOps</a><br>
+<a href="#appsec">Application Security, Development, Scripting, & Automation</a><br><br>
 SECURITY MANAGEMENT<br>
 <a href="#design">Security Architecture & Design, & Threat Modeling</a><br>
 <a href="#grc">Security Governance, Risk, & Compliance (GRC)</a><br>
-<a href="#policy">Security Project Management & Policy</a><br>
-<a href="#philosophy">Cyber Philosophy & Security Strategy</a></p>
+<a href="#management">Security Project & Program Management</a><br>
+<a href="#strategy">Security Strategy & Policy, & Cyber Philosophy</a></p>
 <hr>
 
 <!-- SECURITY OPERATIONS -->
@@ -204,7 +204,7 @@ SECURITY MANAGEMENT<br>
 <hr>
 
 <!-- EMAIL & COMMS -->
-<h3 id="identity"><b>Email & Communications Security:</b></h3>
+<h3 id="commsec"><b>Email & Communications Security:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/kasm.md">**Remote, Emphemeral, & Isolated Execution Environments for Desktop, Browser, & Email**</a><br>
 *Deployed server infrastructure for remotely streaming desktop, browser, and email environments to a client web browser. These Kasm Workspace environments are containerized for isolation and security, and are wiped completely after each session.*
@@ -239,7 +239,7 @@ SECURITY MANAGEMENT<br>
 
 <hr>
 
-<!-- CYBER RESILIENCY -->
+<!-- CYBER RESILIENCE -->
 <h3 id="resilience"><b>Data Security & Protection, Cyber Resilience, & Business Continuity:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/resilience.md">**Onsite & Offsite Backup & Restore for Enterprise Cyber Resilience of Data & Workloads**</a><br>
@@ -265,8 +265,8 @@ SECURITY MANAGEMENT<br>
 
 <hr>
 
-<!-- DATA -->
-<h3 id="data-ai-ml"><b>Pipeline & Workflow Security, DevSecOps, AISecOps, & MLSecOps:</b></h3>
+<!-- DEVSECOPS -->
+<h3 id="devsecops"><b>Pipeline & Workflow Security, DevSecOps, AISecOps, & MLSecOps:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
 *Used Docker Compose and Terraform to provision virtual servers in a hypervisor and containerized applications in Docker. Used GitOps to store, version control, and distribute configuration files to deploy infrastructure and workloads declaratively and automatically.*
@@ -285,8 +285,8 @@ SECURITY MANAGEMENT<br>
 
 <hr>
 
-<!-- DEVSECOPS -->
-<h3 id="devsecops"><b>Application Security, Development, Scripting, & Automation:</b></h3>
+<!-- APPSEC -->
+<h3 id="appsec"><b>Application Security, Development, Scripting, & Automation:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
 *Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.*
@@ -335,8 +335,8 @@ SECURITY MANAGEMENT<br>
 
 <hr>
 
-<!-- POLICY -->
-<h3 id="policy"><b>Security Project Management & Policy:</b></h3>
+<!-- MANAGEMENT -->
+<h3 id="management"><b>Security Project & Program Management:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 *test test test*
@@ -345,8 +345,10 @@ SECURITY MANAGEMENT<br>
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
 *Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems.*
 
-<!-- PHILOSOPHY -->
-<h3 id="philosophy"><b>Cyber Philosophy & Security Strategy:</b></h3>
+<hr>
+
+<!-- STRATEGY -->
+<h3 id="strategy"><b>Security Strategy & Policy, & Cyber Philosophy:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/philosophy.md">**Security Philosophy & Guiding Principles**</a><br>
 *Developed core guiding principles for a successful security program - covering people, processes, and technologies. Explored the concept of cyber philosophy and how it can improve an organizations security posture.*
