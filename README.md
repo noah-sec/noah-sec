@@ -130,10 +130,8 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
@@ -167,10 +165,8 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
 Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied privacy best practices for turning off telemetry in Windows 10.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
@@ -307,10 +303,8 @@ Access control policy for the existing overlay mesh network was configured throu
 Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <br>
 <div align=center><a href="#">Return to top of page</a></div><br>
@@ -340,10 +334,8 @@ Designed a systemic upgrade for an enterprise network infrastructure, including 
 Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
-test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
