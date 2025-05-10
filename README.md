@@ -239,6 +239,8 @@ Created and configured retention labels, applied retention labels, created and m
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
