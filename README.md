@@ -256,7 +256,7 @@ SECURITY MANAGEMENT<br>
 <hr>
 
 <!-- SIEM ENGINEERING -->
-<h3 id="siem"><b>Centralized Log Management, Security Monitoring, & SIEM Engineering:</b></h3>
+<h3 id="siem"><b>Centralized Log Management & SIEM Engineering:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 *Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.*
