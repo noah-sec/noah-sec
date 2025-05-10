@@ -54,8 +54,8 @@ SECURITY MANAGEMENT<br>
 <!-- OCO RED TEAM -->
 <h3 id="oco-red"><b>Offensive Cyber Operations, Stealth & Evasion, Adversarial Simulation, & Red Teaming:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
-Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development (In Progress)**</a><br>
+Developing and deploying a custom command-and-control infrastructure setup. Using a custom redirector and payload server to perform a professional offensive cyber operations case study. Using red team methodology to protect operational security of deployment.
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-red.md">**Hybrid Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access**</a><br>
 Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.
 - <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
@@ -116,6 +116,8 @@ Deployed active defense traps into an existing IT infrastructure to disrupt and 
 Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
 - <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a><br>
 Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Threat Hunting with Microsoft Defender XDR**</a><br>
+Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
 
 <hr>
 
@@ -128,9 +130,9 @@ Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Vulnerability Scan & Automated Remediation 1**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
 test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Vulnerability Scan & Automated Remediation 2**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
 test test test
 
 <hr>
@@ -140,10 +142,8 @@ test test test
 
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Security Operations 1**</a><br>
-Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Security Operations 2**</a><br>
-Detection and response in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Incident Investigation with Microsoft Defender XDR**</a><br>
+Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
 
 <br>
 
@@ -167,6 +167,10 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
 Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied privacy best practices for turning off telemetry in Windows 10.
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
+test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
+test test test
 
 <hr>
 
@@ -291,8 +295,8 @@ Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configu
 <!-- APPSEC -->
 <h3 id="appsec"><b>Application Security, Development, Scripting, & Automation:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development**</a><br>
-Developed and deployed a custom command-and-control infrastructure setup. Used a custom redirector and payload server to perform a professional offensive cyber operations case study. Used red team methodology to protect operational security of deployment.
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development (In Progress)**</a><br>
+Developing and deploying a custom command-and-control infrastructure setup. Using a custom redirector and payload server to perform a professional offensive cyber operations case study. Using red team methodology to protect operational security of deployment.
 - <a href="https://github.com/noah-sec/projects/blob/main/local-llm.md">**Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations**</a><br>
 Deployed a local server for hosting unfiltered local large-language models (LLMs) as the backend to a secure browser-based chatbot user interface frontend. This allows an offensive cyber operations team to develop malicious scripts and payloads without exposing data.
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
@@ -303,9 +307,9 @@ Access control policy for the existing overlay mesh network was configured throu
 Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Remediation for Vulnerability Scan 1**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
 test test test
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Remediation for Vulnerability Scan 2**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
 test test test
 
 <br>
@@ -336,6 +340,10 @@ Designed a systemic upgrade for an enterprise network infrastructure, including 
 Created and configured retention labels, applied retention labels, created and managed retention policies, created and configured eDiscovery (Premium) cases, implemented Communication Compliance, and monitored and investigated data and activities by using Content Search.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
+test test test
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln-2.md">**Automated Vulnerability Remediation for DoD STIG Compliance**</a><br>
+test test test
 
 <hr>
 
