@@ -305,7 +305,7 @@ Access control policy for the existing overlay mesh network was configured throu
 Designed and developed a static website with HTML and Tailwind CSS. Used GitOps to automatically deploy code from git repository to website hosting service. Used numerous features of Cloudflare to secure the website, especially availability through DDoS protection and content delivery.
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+- <a href="https://github.com/noah-sec/powershell-toolbox">**PowerShell Security Automation Toolbox**</a><br>
 Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <br>
