@@ -112,10 +112,8 @@ Deployed active defense traps into an existing IT infrastructure to disrupt and 
 <!-- THREAT HUNTING -->
 <h3 id="hunting"><b>Threat Hunting:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-1.md">**Threat Hunting 1**</a><br>
-Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
-- <a href="https://github.com/noah-sec/projects/blob/main/threat-2.md">**Threat Hunting 2**</a><br>
-Threat hunting in Microsoft Azure cloud environment with Microsoft Sentinel SIEM and Microsoft Defender XDR.
+- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**Advanced Threat Hunt Scenario Report**</a><br>
+Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. 
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Threat Hunting with Microsoft Defender XDR**</a><br>
 Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
 
@@ -239,7 +237,7 @@ Created and configured retention labels, applied retention labels, created and m
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln-1.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
 Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
