@@ -299,7 +299,7 @@ Designed and developed a static website with HTML and Tailwind CSS. Used GitOps 
 Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.
 - <a href="https://github.com/noah-sec/powershell-toolbox">**PowerShell Security Automation Toolbox**</a><br>
 Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
-- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**YARA Detection Engineering Toolbox**</a><br>
+- <a href="https://github.com/noah-sec/yara-toolbox">**YARA Detection Engineering Toolbox**</a><br>
 Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. Developed detection rules in YARA for Tenable Nessus.
 
 <br>
