@@ -26,10 +26,8 @@ SECURITY OPERATIONS<br>
 <a href="#testing">Security Testing & Assessment</a><br>
 <!-- <a href="#hunting">Threat Modeling</a><br> -->
 <a href="#deception">Cyber Deception, Active Defense, & Offensive Countermeasures</a><br>
-<a href="#hunting">Threat Hunting</a><br>
-<!-- <a href="#detection">Threat Detection Engineering</a><br> -->
-<a href="#vuln-mgmt">Vulnerability Management</a><br>
-<a href="#sec-ops">Security Analysis (SOC), Threat Detection & Response, & Incident Investigation</a><br><br>
+<a href="#hunting">Threat Hunting, Detection & Response, Investigation, & Detection Engineering</a><br>
+<a href="#vuln-mgmt">Vulnerability Management</a><br><br>
 SECURITY ENGINEERING<br>
 <a href="#endpoint">Endpoint & Workload Security</a><br>
 <a href="#net-web">Network & Web Security</a><br>
@@ -110,11 +108,13 @@ Deployed active defense traps into an existing IT infrastructure to disrupt and 
 <hr>
 
 <!-- THREAT HUNTING -->
-<h3 id="hunting"><b>Threat Hunting:</b></h3>
+<h3 id="hunting"><b>Threat Hunting, Detection & Response, Investigation, & Detection Engineering:</b></h3>
 
-- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**Advanced Threat Hunt Scenario Report**</a><br>
-Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. 
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Threat Hunting with Microsoft Defender XDR**</a><br>
+- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**Cloud Endpoint Threat Hunting and Detection Engineering**</a><br>
+Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. Developed detection rules in YARA for Tenable Nessus.
+- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud Threat Detection & Investigation**</a><br>
+Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.
+- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Threat Hunting & Investigation with Microsoft Defender XDR**</a><br>
 Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
 
 <hr>
@@ -129,17 +129,7 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
 Drafted a formal policy, secured stakeholder buy-in, and developed vulnerability management practices for a medium-sized business.
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
-Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
-
-<hr>
-
-<!-- SECURITY OPERATIONS -->
-<h3 id="sec-ops"><b>Security Analysis (SOC), Threat Detection & Response, & Incident Investigation:</b></h3>
-
-- <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
-Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.
-- <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Incident Investigation with Microsoft Defender XDR**</a><br>
-Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <br>
 
@@ -163,8 +153,10 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
 - <a href="https://github.com/noah-sec/projects/blob/main/endpoints.md">**Windows Workstation & Linux Server Endpoint Security Hardening**</a><br>
 Used CIS Benchmarks to harden Windows 10 workstations and Debian-based Linux servers. Set up a virtual private server (VPS) in Azure cloud with security best practices. Also applied privacy best practices for turning off telemetry in Windows 10.
+- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**Cloud Endpoint Threat Hunting and Detection Engineering**</a><br>
+Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. Developed detection rules in YARA for Tenable Nessus.
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
-Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
@@ -221,6 +213,10 @@ Developed a communications, accounts, and devices strategy for a high risk scena
 Performed red team operations against Microsoft, Amazon, and Google cloud platforms. Performed reconnaissance and open-source intelligence to discover and exploit credentials that were left exposed in a public repository. Exploited misconfigurations to enumerate cloud assets and settings after initial access.
 - <a href="https://github.com/noah-sec/projects/blob/main/cloud-blue.md">**Hybrid Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation**</a><br>
 Implemented logging of Microsoft, Amazon, and Google cloud environments and centralized monitoring using Elastic SIEM. Used KQL queries to detect threats and build multi-stage investigations into security incidents.
+- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**Cloud Endpoint Threat Hunting and Detection Engineering**</a><br>
+Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. Developed detection rules in YARA for Tenable Nessus.
+- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-xdr.md">**Defense Against Cyberthreats with Microsoft Defender XDR**</a><br>
 Configured a Defender XDR environment, managed devices using Defender for Endpoint, used Defender XDR to manage incidents, managed investigations on an endpoint, and performed Advanced Hunting with KQL to detect unique threats.
 - <a href="https://github.com/noah-sec/projects/blob/main/cicd-iac.md">**Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code**</a><br>
@@ -237,8 +233,6 @@ Created and configured retention labels, applied retention labels, created and m
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-vms.md">**Deploy & Administer Linux Virtual Machines on Microsoft Azure**</a><br>
 Created and configured a Linux VM, configured monitoring and backup of Linux VMs, scaled Linux VMs vertically, configured identities and roles for Linux VMs, and accessed Azure Storage from a Linux VM.
-- <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
-Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
@@ -304,7 +298,9 @@ Designed and developed a static website with HTML and Tailwind CSS. Used GitOps 
 - <a href="https://github.com/noah-sec/projects/blob/main/python-toolbox.md">**Python Security Automation Toolbox**</a><br>
 Includes scripts for automating encryption and decryption, scripts from courses, and scripts for penetration testing against networks and web applications.
 - <a href="https://github.com/noah-sec/powershell-toolbox">**PowerShell Security Automation Toolbox**</a><br>
-Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
+- <a href="https://github.com/noah-sec/projects/blob/main/threat.md">**YARA Detection Engineering Toolbox**</a><br>
+Performed Advanced Hunting and incident investigation with KQL in Microsoft Azure cloud environment using Microsoft Sentinel SIEM and Microsoft Defender XDR. Developed detection rules in YARA for Tenable Nessus.
 
 <br>
 <div align=center><a href="#">Return to top of page</a></div><br>
@@ -335,7 +331,7 @@ Created and configured retention labels, applied retention labels, created and m
 - <a href="https://github.com/noah-sec/projects/blob/main/azure-copilot.md">**Prepare Security & Compliance to Support Microsoft 365 Copilot**</a><br>
 Prepared Microsoft 365 environment to support Copilot for Microsoft 365, configured identity governance to support Copilot for Microsoft 365, configured device management to support Copilot for Microsoft 365, configured and managed compliance settings for Copilot for Microsoft 365, and configured and managed access to information by Copilot for Microsoft 365.
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
-Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
+Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Developed automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
 <hr>
 
