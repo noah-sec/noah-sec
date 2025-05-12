@@ -127,7 +127,7 @@ Configured a Defender XDR environment, managed devices using Defender for Endpoi
 <h3 id="vuln-mgmt"><b>Vulnerability Management:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
-test test test
+Drafted a formal policy, secured stakeholder buy-in, and developed vulnerability management practices for a medium-sized business.
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln.md">**Automated Endpoint Vulnerability Remediation for DoD STIG Compliance**</a><br>
 Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azure cloud based on DoD STIG compliance standards. Automated remediations for the STIG compliance audit findings with PowerShell scripts.
 
@@ -321,7 +321,7 @@ Designed and deployed a software-defined mesh overlay network on top of the exis
 - <a href="https://github.com/noah-sec/projects/blob/main/physical-net.md">**Physical Network Infrastructure Deployment with Firewalls & Microsegmentation**</a><br>
 Deployed physical network infrastructure for MAC address and IP address routing within the LAN, including modem, firewall, router, DHCP, DNS, access point, switch, and ethernet cables.
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
-test test test
+Drafted a formal policy, secured stakeholder buy-in, and developed vulnerability management practices for a medium-sized business.
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.
 
@@ -343,7 +343,7 @@ Used Tenable Nessus to scan for vulnerabilities on a Windows 10 endpoint in Azur
 <h3 id="management"><b>Security Project & Program Management:</b></h3>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/vuln-program.md">**Enterprise Vulnerability Management Program Implementation**</a><br>
-test test test
+Drafted a formal policy, secured stakeholder buy-in, and developed vulnerability management practices for a medium-sized business.
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Enterprise Secure Network Infrastructure Deployment**</a><br>
 Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.
 - <a href="https://github.com/noah-sec/projects/blob/main/ai-red-team.md">**AI-Enhanced Offensive Security Assessment of AI Systems**</a><br>
