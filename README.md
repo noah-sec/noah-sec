@@ -9,7 +9,7 @@
 <!-- INTRODUCTION -->
 <p align=center>The following portfolio demonstrates some of my capabilities as an <b>Offensive Security Engineer</b></a>.<br>
 <a href="https://noahsec.pro">Visit my professional website</a> to see full details of my experience, certifications, degrees, and training.<br><br>
-<i><b>Professional details are listed at the first half of the table of contents, project details are listed at the second half of the table of contents.</b></i></p>
+<i><b>Professional details are listed at the first half of the contents section, project details are listed at the second half of the contents section.</b></i></p>
 <hr>
 <!-- CONTENTS -->
 <h3>CONTENTS</h3>
@@ -30,7 +30,7 @@
 <hr>
 <!-- PROFESSIONAL DETAILS -->
 <h3 align=center><b>PROFESSIONAL DETAILS</b></h3>
-<p align=center><b><i>Selected skills, projects, credentials, education, experience, capture-the-flags, & training.</i></b></p><hr>
+<p align=center><b><i>Selected skills, projects, credentials, education, experience, capture-the-flags, & training relevant to offensive security.</i></b></p><hr>
 
 <!-- SUMMARY -->
 <h3 id="summary"><b>Summary:</b></h3>
@@ -40,7 +40,7 @@ name: "Noah Grayson"
 position: "Offensive Security Engineer, Penetration Testing"
 location: "USA"
 ```
-
+<hr>
 <!-- SKILLS -->
 <h3 id="skills"><b>Skills:</b></h3>
 
@@ -55,20 +55,26 @@ skills:
   capability_development: # infra dev, tool dev, payload dev, & DevSecOps
     "Python, Go, Docker, Kubernetes, Terraform, GitOps, Azure, & C2 Infrastructure"
 ```
-
+<hr>
 <!-- PROJECTS -->
 <h3 id="projects"><b>Projects:</b></h3>
 
 ```yaml
+projects:
+  [
+    "Professional WebApp Penetration Test Report",
+    "Professional Network Penetration Test Report",
+    "Professional Active Directory Penetration Test Report",
+    "Offensive Cyber Operations Infrastructure Development"
+  ]
 ```
-
+<hr>
 <!-- CREDENTIALS -->
 <h3 id="credentials"><b>Credentials:</b></h3>
 
 ```yaml
 credentials:
-  # PRACTICAL LAB-BASED CERTIFICATIONS
-  practical_lab:
+  practical_lab_certifications:
     exam_preparation: # can take most of these exams once able to afford vouchers
       [
         "Certified Red Team Infrastructure Developer (CRT-ID)", # training completed - CyberWarfare Labs
@@ -76,36 +82,15 @@ credentials:
         "Certified Penetration Testing Specialist (CPTS)", # training in progress - Hack The Box
         "Certified Bug Bounty Hunter (CBBH)", # training completed - Hack The Box
         "Practical Network Penetration Tester (PNPT)", # training completed - TCM Security
-        "Practical Web Pentest Professional (PWPP)", # training completed - TCM Security
-        "Junior Penetration Tester (PT1)" # training completed - TryHackMe
+        "Practical Web Pentest Professional (PWPP)" # training completed - TCM Security
       ]
     exam_passed:
       [
         "Multi-Cloud Red Team Analyst (MCRTA)", # CyberWarfare Labs
         "Multi-Cloud Blue Team Analyst (MCBTA)", # CyberWarfare Labs
         "Practical OSINT Researcher Professional (PORP)", # TCM Security
-        "Foundations of Leadership (FOL 101-2)" # NSLS (a national leadership honor society)
       ]
-    # MICROSOFT APPLIED SKILLS
-    applied_skills:
-      [
-        "Defend against cyberthreats with Microsoft Defender XDR (SC-5004)", # Microsoft
-        "Implement information protection & DLP in Microsoft Purview (SC-5003)", # Microsoft
-        "Implement retention, eDiscovery, & Comm. Compliance in MS Purview (SC-5007)", # Microsoft
-        "Prepare security and compliance to support Microsoft 365 Copilot (MS-4002)", # Microsoft
-        "Configure secure access to your workloads using Azure networking (AZ-1002)", # Microsoft
-        "Secure storage for Azure Files and Azure Blob Storage (AZ-1003)", # Microsoft
-        "Administer Active Directory Domain Services (AZ-1006)", # Microsoft
-        "Deploy and administer Linux virtual machines on Microsoft Azure (AZ-1007)" # Microsoft
-      ]
-  # MULTIPLE-CHOICE-BASED CERTIFICATIONS    
-  multiple_choice:
-    exam_preparation: # not necessarily taking these exams since they are multiple-choice
-      [
-        "APIsec Certified Practitioner (ACP)", # training in progress - APIsec University
-        "Certified Cloud Security Professional (CCSP)", # training completed - ISC2"
-        "Cloud+" # training completed - CompTIA
-      ]
+  multiple_choice_certifications:
     exam_passed:
       [
         "PenTest+", # CompTIA
@@ -115,13 +100,14 @@ credentials:
         "Project+", # CompTIA
         "Foundation Level Threat Intelligence Analyst (FTIA)", # arcX
         "Fortinet Certified Associate in Cybersecurity (FCA)", # Fortinet
+        "Foundations of Leadership (FOL 101-2)" # NSLS (a national leadership honor society)
         "AI Fundamentals", # DataCamp
         "Docker Foundations", # Docker
         "Linux Essentials", # Linux Professional Institute
         "Disinformation Analyst" # Debunk.org (a disinformation analysis center)  
       ]
 ```
-
+<hr>
 <!-- EDUCATION -->
 <h3 id="education"><b>Education:</b></h3>
 
@@ -168,70 +154,66 @@ education:
     strategic_security_studies: "Emerging Technologies, Cybernetics, & Hybrid Conflict"
     international_relations: "Political Philosophy, Political Economy, Social Theory, & Social Psychology"
     electrical_engineering: "Computational Mathematics, Electromagnetic Physics, & Circuit Analysis"
-    defense_language_institute: "Russian & Chinese Language & Culture" # DLIFLC
-    naval_postgraduate_school: "Advanced Persistent Threats, Homeland Security, & Global Security" # NPS
+    defense_language_institute: "Russian & Chinese Language & Culture" # DLI FLC
+    naval_postgraduate_school: "Advanced Persistent Threats, Homeland Security, & Global Security" # NPS CHDS
 ```
-
+<hr>
 <!-- EXPERIENCE -->
 <h3 id="experience"><b>Experience:</b></h3>
 
 ```yaml
 experience:
-  # SECURITY EXPERIENCE
-  security:
+  security_experience:
     [
       "Offensive Security Engineer, Penetration Testing", # 6/25 (freelance subcontract) 
       "Cloud Security Engineer, Vulnerability Management & Threat Hunting", # 3/25-5/25 (internship) 
       "Offensive Security Consultant, Threat Assessment & OPSEC" # 3/24-3/25 (startup)
     ]
-  # PREVIOUS EXPERIENCE
-  previous:
+  previous_experience:
     [
       "Associate Director & Head Gamemaster", # 1yr
       "Support Administrator & Gamemaster", # 1yr
       "Assistant Head Chef & Head Trainer" # 2yrs
     ]
 ```
-
+<hr>
 <!-- CTFS -->
 <h3 id="ctfs"><b>Capture-the-Flags:</b></h3>
 
 ```yaml
 ctfs:
   [
-    "HackAPrompt 2.0",
-    "HackAPrompt 1.0",
-    "NSA Codebreaker Challenge",
-    "DoD Cyber Sentinel Challenge",
-    "National Cyber League"
+    "HackAPrompt 2.0", # in progress - 2025
+    "HackAPrompt 1.0", # 2025
+    "NSA Codebreaker Challenge", # 2024
+    "DoD Cyber Sentinel Challenge", # upcoming - 2025
+    "National Cyber League", # 2023
   ]
 ```
-
+<hr>
 <!-- TRAINING -->
 <h3 id="training"><b>Training:</b></h3>
 
 ```yaml
 training:
   [
-    "Offensive Security Engineering", # Casey Erdmann - Udemy
-    "Practical Phishing Campaigns", # Aaron Wilson - TCM Security
-    "Practical Ethical Hacking", # Heath Adams - TCM Security
-    "Practical Web Hacking", # Alex Olsen - TCM Security
-    "Practical API Hacking", # Alex Olsen - TCM Security
-    "Practical Bug Bounty", # Multiple - TCM Security
-    "Advanced Python Scripting for Cybersecurity", # Howard Poston - Coursera
-    "Python 101 for Hackers", # Riley Kidd - TCM Security
-    "Rust 101 for Hackers", # Multiple - TCM Security
-    "C# 101 for Hackers", # Alex Tushinsky - TCM Security
-    "External Pentest Playbook", # Heath Adams - TCM Security
-    "Open Source Intelligence (OSINT) Fundamentals", # Heath Adams - TCM Security
-    "Windows Privilege Escalation", # Heath Adams - TCM Security
-    "Linux Privilege Escalation", # Heath Adams - TCM Security
-    "Active Defense and Cyber Deception", # John Strand - Antisyphon Training
-    "Getting Started in Security with BHIS and MITRE ATT&CK" # John Strand - Antisyphon Training
+    "Red Team Operations with Cobalt Strike" # in progress - Raphael Mudge, creator of Cobalt Strike
+    "Offensive Security Engineering", # Casey Erdmann, Udemy
+    "Practical Phishing Campaigns", # Aaron Wilson, TCM Security
+    "Practical Ethical Hacking", # Heath Adams, TCM Security
+    "Practical Web Hacking", # Alex Olsen, TCM Security
+    "Practical API Hacking", # Alex Olsen, TCM Security
+    "Practical Bug Bounty", # Multiple, TCM Security
+    "Advanced Python Scripting for Cybersecurity", # Howard Poston, Coursera
+    "Python 101 for Hackers", # Riley Kidd, TCM Security
+    "External Pentest Playbook", # Heath Adams, TCM Security
+    "Open Source Intelligence (OSINT) Fundamentals", # Heath Adams, TCM Security
+    "Windows Privilege Escalation", # Heath Adams, TCM Security
+    "Linux Privilege Escalation", # Heath Adams, TCM Security
+    "Active Defense and Cyber Deception", # John Strand, Antisyphon Training
+    "Getting Started in Security with BHIS and MITRE ATT&CK" # John Strand, Antisyphon Training
   ]
 ```
-
 <hr>
 <!-- PROJECT DETAILS -->
 <h3 align=center><b>PROJECT DETAILS</b></h3>
