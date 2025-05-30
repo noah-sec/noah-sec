@@ -1,7 +1,7 @@
 <!-- ANIMATED TOP BANNER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=450a0a&height=120&section=header" alt="header"/>
 <!-- TITLE -->
-<h1 align=center>Security Project Portfolio</h1>
+<h1 align=center>Offensive Security Engineering Portfolio</h1>
 <!-- ANIMATED TYPING -->
 <p align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=71717a&width=435&lines=Hello%2C+I'm+Noah+Grayson;Offensive+Security+Engineer" alt="Noah Grayson"/>
@@ -40,6 +40,7 @@ name: "Noah Grayson"
 position: "Offensive Security Engineer, Penetration Testing"
 location: "USA"
 ```
+
 <hr>
 <!-- SKILLS -->
 <h3 id="skills"><b>Skills:</b></h3>
@@ -55,6 +56,7 @@ skills:
   capability_development: # infra dev, tool dev, payload dev, & DevSecOps
     "Python, Go, Docker, Kubernetes, Terraform, GitOps, Azure, & C2 Infrastructure"
 ```
+
 <hr>
 <!-- PROJECTS -->
 <h3 id="projects"><b>Projects:</b></h3>
@@ -68,6 +70,7 @@ projects:
     "Offensive Cyber Operations Infrastructure Development"
   ]
 ```
+
 <hr>
 <!-- CREDENTIALS -->
 <h3 id="credentials"><b>Credentials:</b></h3>
@@ -75,7 +78,7 @@ projects:
 ```yaml
 credentials:
   practical_lab_certifications:
-    exam_preparation: # can take most of these exams once able to afford vouchers
+    exam_preparation: # ready to take most of these exams once able to afford vouchers
       [
         "Certified Red Team Infrastructure Developer (CRT-ID)", # training completed - CyberWarfare Labs
         "Certified Red Team Analyst (CRTA)", # training completed - CyberWarfare Labs
@@ -107,6 +110,7 @@ credentials:
         "Disinformation Analyst" # Debunk.org (a disinformation analysis center)  
       ]
 ```
+
 <hr>
 <!-- EDUCATION -->
 <h3 id="education"><b>Education:</b></h3>
@@ -116,10 +120,14 @@ education:
   degrees:
     [
       "Master of Science, Computer Science: Artificial Intelligence & Machine Learning", # in progress
-      "Master of Science, Cybersecurity & Information Assurance",
-      "Bachelor of Science, Cybersecurity & Information Assurance"
+      "Master of Science, Cybersecurity & Information Assurance", # MSCSIA
+      "Bachelor of Science, Cybersecurity & Information Assurance" # BSCSIA
     ]
-  clubs: "Cybersecurity Club Member & Volunteer" # graphic design & technical writing
+  final_projects:
+    mscsia: # Master of Science, Cybersecurity & Information Assurance
+      "Capstone, Secure Enterprise Network Infrastructure Deployment"
+    bscsia: # Bachelor of Science, Cybersecurity & Information Assurance
+      "Capstone, AI-Enhanced Offensive Security Assessment of AI Systems"
   honors:
     [
       "Excellence Award, Communication",
@@ -127,11 +135,7 @@ education:
       "Nominated into national honor society in leadership",
       "Inducted into national honor society in homeland security and intelligence"
     ]
-  final_projects:
-    mscsia: # Master of Science, Cybersecurity & Information Assurance
-      "Capstone, Secure Enterprise Network Infrastructure Deployment"
-    bscsia: # Bachelor of Science, Cybersecurity & Information Assurance
-      "Capstone, AI-Enhanced Offensive Security Assessment of AI Systems"
+  clubs: "Cybersecurity Club Member & Volunteer" # graphic design & technical writing
   coursework:
     [
       "Penetration Testing & Vulnerability Analysis (D332)",
@@ -157,6 +161,7 @@ education:
     defense_language_institute: "Russian & Chinese Language & Culture" # DLI FLC
     naval_postgraduate_school: "Advanced Persistent Threats, Homeland Security, & Global Security" # NPS CHDS
 ```
+
 <hr>
 <!-- EXPERIENCE -->
 <h3 id="experience"><b>Experience:</b></h3>
@@ -176,6 +181,7 @@ experience:
       "Assistant Head Chef & Head Trainer" # 2yrs
     ]
 ```
+
 <hr>
 <!-- CTFS -->
 <h3 id="ctfs"><b>Capture-the-Flags:</b></h3>
@@ -190,6 +196,7 @@ ctfs:
     "National Cyber League", # 2023
   ]
 ```
+
 <hr>
 <!-- TRAINING -->
 <h3 id="training"><b>Training:</b></h3>
@@ -214,6 +221,7 @@ training:
     "Getting Started in Security with BHIS and MITRE ATT&CK" # John Strand, Antisyphon Training
   ]
 ```
+<div align=center><a href="#">Return to top of page</a></div><br>
 <hr>
 <!-- PROJECT DETAILS -->
 <h3 align=center><b>PROJECT DETAILS</b></h3>
@@ -233,8 +241,11 @@ YARA Detection Engineering Toolbox
 <hr>
 <!-- HEADING TEMPLATE -->
 <h3 id="projects-home"><b>Personal Homelab Projects:</b></h3>
-Offensive Cyber Operations Infrastructure Development
-Active Directory Offensive Security Testing
+
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development (In Progress)**</a><br>
+Developing and deploying a custom command-and-control infrastructure setup. Using a custom redirector and payload server to perform a professional offensive cyber operations case study. Using red team methodology to protect operational security of deployment.
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
+Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.
 Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations
 Secure & Private Accounts & Communications for High-Risk Operations
 Real-Time Threat Intelligence with Deceptive Assets, Services, & Users
@@ -251,8 +262,11 @@ Physical Network Infrastructure Deployment with Firewalls & Microsegmentation
 <hr>
 <!-- HEADING TEMPLATE -->
 <h3 id="projects-cert"><b>Certification Projects:</b></h3>
-Offensive Cyber Operations Infrastructure Development
-Active Directory Offensive Security Testing
+
+- <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**Offensive Cyber Operations Infrastructure Development (In Progress)**</a><br>
+Developing and deploying a custom command-and-control infrastructure setup. Using a custom redirector and payload server to perform a professional offensive cyber operations case study. Using red team methodology to protect operational security of deployment.
+- <a href="https://github.com/noah-sec/projects/blob/main/ad-offsec.md">**Active Directory Offensive Security Testing**</a><br>
+Deployed a Windows Server with Active Directory Domain Services to practice and demonstrate initial attack vectors, post-compromise enumeration, and post-compromise attacks. This includes pass-the-hash attacks, kerberoasting, token impersonation, credential-dumping with Mimikatz, and golden ticket attacks.
 Professional OSINT & Social Engineering Investigation & Report (full report is redacted)
 Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access
 Multi-Cloud SIEM Engineering, Threat Detection, & Threat Investigation
@@ -271,7 +285,6 @@ Cyber Influence in Media & Information Sources
 <h3 id="projects-uni"><b>University Projects:</b></h3>
 AI-Enhanced Offensive Security Assessment of AI Systems
 Secure Enterprise Network Infrastructure Deployment
-<hr>
 
 - <a href="https://github.com/noah-sec/projects/blob/main/oco-infra.md">**item template**</a><br>
 Developing and deploying a custom command-and-control infrastructure setup. Using a custom redirector and payload server to perform a professional offensive cyber operations case study. Using red team methodology to protect operational security of deployment.
@@ -279,7 +292,6 @@ Developing and deploying a custom command-and-control infrastructure setup. Usin
 
 <!-- CONTACT -->
 <hr><br>
-<p align=center><i><b>Many projects are categorized more than once to reflect their cross-domain emphasis.</b></i></p>
 <p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. 
 <br>Please feel free to reach out for more details about a specific project!</b></i></p><br>
 
