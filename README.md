@@ -335,6 +335,7 @@ Analyzed media sources for factual veracity, biases, and political spin. Analyze
 Developed a project management report for the initiation and conclusion of a red team assessment. Used AI-enhanced tools and techniques for the red team assessment, and also tested against infrastructure that included AI systems. Used the MITRE ATT&CK framework and the Lockheed Martin Cyber Kill Chain.
 - <a href="https://github.com/noah-sec/projects/blob/main/network-infra.md">**Secure Enterprise Network Infrastructure Deployment**</a><br>
 Designed a systemic upgrade for an enterprise network infrastructure, including vendor acquisition and constructing a budget request. Justified the business need for the upgrade using industry documentation and historic performance data. Sourced a specific Palo Alto Networks firewall appliance to fit the organization's environment.
+<div align=center><a href="#">Return to top of page</a></div><br>
 <!-- CONTACT -->
 <hr><br>
 <p align=center><i><b>Much of the project documentation is still under construction. It has been an ongoing effort to migrate this information to GitHub. 
