@@ -59,12 +59,28 @@ skills:
 
 ```yaml
 projects:
-  [
-    "Professional WebApp Penetration Test Report",
-    "Professional Network Penetration Test Report",
-    "Professional Active Directory Penetration Test Report",
-    "Offensive Cyber Operations Infrastructure Development"
-  ]
+  professional_projects:
+    [
+      "Professional WebApp Penetration Test Report", # in progress
+      "Professional Network Penetration Test Report", # in progress
+      "Professional Active Directory Penetration Test Report", # in progress
+      "Enterprise Vulnerability Management Program Implementation"
+    ]
+  personal_homelab_projects:
+    [
+      "Offensive Cyber Operations Infrastructure Development", # in progress
+      "Local, Private, Secure, & Unfiltered LLM Chatbot for Offensive Security Operations",
+      "Secure & Private Accounts & Communications for High-Risk Operations",
+      "Cloud-Native Infrastructure & Workload Automation with GitOps & Infrastructure-as-Code"
+    ]
+  certification_projects:
+    [
+      "Active Directory Offensive Security Testing", # PNPT, CPTS, CRTA
+      "Professional OSINT & Social Engineering Investigation & Report", # PORP
+      "Multi-Cloud Offensive Reconnaissance, Enumeration, & Initial Access", # MCRTA
+      "Python Security Automation Toolbox" # PNPT
+    ]
+  university_projects: "AI-Enhanced Offensive Security Assessment of AI Systems" # BSCSIA
 ```
 <!-- CREDENTIALS -->
 <h3 id="credentials"><b>Credentials:</b></h3>
